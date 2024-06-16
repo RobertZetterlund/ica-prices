@@ -1,0 +1,1964 @@
+{
+  "game-1": {
+    "productId": "7ccbff18-afb6-4215-b8e3-77aeebcb61b7",
+    "name": "Feta 150g ICA",
+    "price": "25.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/50569f8a-0d13-4396-b864-99eef2d0d8fd/300x300.jpg"
+  },
+  "game-2": {
+    "productId": "e95862ae-cef8-43cb-ad61-4c8b9bf6cebe",
+    "name": "Nötfärs 12% 500g ICA",
+    "price": "58.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/4cbf0adc-add3-4ede-b8b7-4ed6dddc6517/300x300.jpg"
+  },
+  "game-3": {
+    "productId": "e6806018-0322-4a34-a8aa-01b52028782a",
+    "name": "Smör Normalsaltat Svenskt 82% 500g Arla",
+    "price": "61.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/01a829ed-6e0e-4d21-a6e0-2c300869820e/300x300.jpg"
+  },
+  "game-4": {
+    "productId": "1553101d-6194-4e54-b3be-fe450c4d7128",
+    "name": "Majs 3-p 480g Green Giant",
+    "price": "29.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/2405bef0-e996-48d3-a129-93cdab1fb2ff/300x300.jpg"
+  },
+  "game-5": {
+    "productId": "733c141e-c6a1-4980-b638-c97480fa504f",
+    "name": "Druvor Thompson Seedless Gröna kärnfria 500g Klass 1 ICA",
+    "price": "39.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/589e51fd-4e21-4ed7-b702-bcc3db3e26d9/300x300.jpg"
+  },
+  "game-6": {
+    "productId": "ad0ff756-e023-48ac-ab3d-f7eee189f9c8",
+    "name": "Halloumi 200g ICA",
+    "price": "30.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/836e5c61-63ab-42e9-b70a-ebcbf99d73cf/300x300.jpg"
+  },
+  "game-7": {
+    "productId": "5e6f94d5-16e1-4465-93c2-e67cec2e8bfb",
+    "name": "Äpple Royal Gala ekologiskt ca 160g Klass 1 ICA I love eco",
+    "price": "7.99",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/c7741b99-d56d-48a8-ba08-d78cbd5ae04e/300x300.jpg"
+  },
+  "game-8": {
+    "productId": "c9f3fed1-37c9-4204-abb2-82ae63be41c6",
+    "name": "Mellanmjölkdryck Laktosfri 1,5% 1,5l ICA",
+    "price": "23.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/762d16f8-85ed-440b-8193-cc3f9b5a5ae6/300x300.jpg"
+  },
+  "game-9": {
+    "productId": "a73530a3-a9b1-4f12-bcf9-7449e8a11455",
+    "name": "Crème fraiche 32% 2dl ICA",
+    "price": "16.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/d506233b-d8e4-4aab-b585-9863f7f0e6f3/300x300.jpg"
+  },
+  "game-10": {
+    "productId": "792830b1-f02f-4275-a1bc-c44e8cd133f0",
+    "name": "Mjölkdryck längre hållbarhet 1,3% 1,5l Klöver®",
+    "price": "19.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/6c1728f5-7d65-4344-baba-15f96201fedb/300x300.jpg"
+  },
+  "game-11": {
+    "productId": "20b74fbf-9ea9-41d5-9572-1e389aa0ca29",
+    "name": "Lingongrova 500g Pågen",
+    "price": "24.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/8ec8d787-5e2c-4037-8e1c-8bdd921bf869/300x300.jpg"
+  },
+  "game-12": {
+    "productId": "098afb24-db0f-4a08-899d-a526b4d81996",
+    "name": "Skärgårdskaka Hönö 750g Pågen",
+    "price": "38.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/149d5355-e37b-4511-89df-39d65dd2b267/300x300.jpg"
+  },
+  "game-13": {
+    "productId": "57fe9446-0c91-4727-96c4-bb18c208a72b",
+    "name": "Bacon 3-pack 420g Scan",
+    "price": "46.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/94899122-cb3f-496b-85ee-48f1442fdb04/300x300.jpg"
+  },
+  "game-14": {
+    "productId": "bc81c958-ec27-4b2e-9bfe-4ab38b28fa22",
+    "name": "Färskpotatis tvättad Klass 1 ICA",
+    "price": "2.25",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/6545435e-38dc-42c0-9312-eaf27339d2ab/300x300.jpg"
+  },
+  "game-15": {
+    "productId": "f2e9d508-9a8b-4608-a728-d59849a7d932",
+    "name": "Mellanmjölk 1,5% 1l ICA",
+    "price": "12.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/6aa4530d-3da0-41e5-8734-64541f8ab099/300x300.jpg"
+  },
+  "game-16": {
+    "productId": "b4a6c453-ae87-4dae-ad5e-26de5ed96864",
+    "name": "Gräddfil 12% 3dl ICA",
+    "price": "12.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/110803c8-c60c-4fa2-9143-609cd45d77ea/300x300.jpg"
+  },
+  "game-17": {
+    "productId": "e705d850-92d5-43d6-920d-7529f5bf0d94",
+    "name": "Mellanmål Jordgubb 175g Risifrutti",
+    "price": "11.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/7ff0aa49-0a78-49b0-a510-fbaef6ebc9b9/300x300.jpg"
+  },
+  "game-18": {
+    "productId": "fd594a78-33cf-43e4-87fe-3e5a3cca18b1",
+    "name": "Nudlar Kryddstark 85g Samyang",
+    "price": "6.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/b6de2429-6f31-422c-aa6c-55903a8d2ac4/300x300.jpg"
+  },
+  "game-19": {
+    "productId": "c85d6a6e-19a2-414c-8a4c-742c70249643",
+    "name": "Standardmjölk Extra lång hållbarhet 3% 1,5l ICA",
+    "price": "18.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/8309ed57-aea8-4503-bbfc-7e304ec80264/300x300.jpg"
+  },
+  "game-20": {
+    "productId": "ee46a68f-73ce-4161-9978-ab7da6a00668",
+    "name": "Matlagningsgrädde 13% 5dl ICA",
+    "price": "23.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/0f517a46-94b1-4951-b67f-fc3e4860a52d/300x300.jpg"
+  },
+  "game-21": {
+    "productId": "685adcf9-5c4d-41ac-9266-c69bb7d50bc5",
+    "name": "Apelsin Navel ca 310g Klass 1 ICA",
+    "price": "10.21",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/00e93070-836a-487d-ad06-602ea1d9e8bb/300x300.jpg"
+  },
+  "game-22": {
+    "productId": "23e917c4-d0c3-408f-8f96-d4393d38efdf",
+    "name": "Korvbröd 16-p 432g Korvbrödsbagarn",
+    "price": "22.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/0d614c5a-3f74-4126-b9c4-3512a9b99080/300x300.jpg"
+  },
+  "game-23": {
+    "productId": "be836df5-dc30-4c34-925b-9b91238028d8",
+    "name": "Mozzarella 125g ICA Basic",
+    "price": "14.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/14e15985-5e90-4ac6-91ad-c5efe7974528/300x300.jpg"
+  },
+  "game-24": {
+    "productId": "0b73f974-1735-4269-bae1-800bf2fea262",
+    "name": "Grillost Norrländsk 24% 200g ICA",
+    "price": "35.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/074a114e-e457-4b09-a795-defc0a08fa72/300x300.jpg"
+  },
+  "game-25": {
+    "productId": "c8cc0aba-be16-4ff5-8b48-0d3bb73a310e",
+    "name": "Hamburgerost Cheddarsmak 200g ICA",
+    "price": "26.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/ce0a58bc-8e04-40c4-86ba-0b970a5f5df7/300x300.jpg"
+  },
+  "game-26": {
+    "productId": "f97cc95b-ef94-432f-86f1-23af402100e8",
+    "name": "Finbladig babyspenat Sköljd 65g ICA",
+    "price": "16.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/1d5d331c-9b52-4f9a-bf0b-30e7714fcfaa/300x300.jpg"
+  },
+  "game-27": {
+    "productId": "54d8d523-7201-4789-a0b4-85d869ba530e",
+    "name": "Kexchoklad 60g Cloetta",
+    "price": "9.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/52b3f624-3559-4751-96d5-f45a8d158eee/300x300.jpg"
+  },
+  "game-28": {
+    "productId": "44e6253f-0090-4523-aa80-2cf4ad60e138",
+    "name": "Druvor Crimson Röda kärnfria 500g Klass 1 ICA",
+    "price": "39.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/36072ec6-a12b-4c54-a650-ec0f0d799451/300x300.jpg"
+  },
+  "game-29": {
+    "productId": "03877b56-e6e9-444e-be16-c52dfb804dd3",
+    "name": "Tortilla Original Medium 8-p 320g Santa Maria",
+    "price": "16.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/66d86a48-abd9-4752-80ba-7d629ce3a079/300x300.jpg"
+  },
+  "game-30": {
+    "productId": "44b01175-b705-4bd5-a91d-5a29ee1f8a36",
+    "name": "Bacon 140g Scan",
+    "price": "20.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/83e1c282-f28b-4271-8cc3-f914feeb60c1/300x300.jpg"
+  },
+  "game-31": {
+    "productId": "82fc8062-f83a-4dcc-b800-8835c370a682",
+    "name": "Kycklingfilé Fryst 1kg Kronfågel",
+    "price": "103.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/7724614a-a404-4702-b2d6-40559b6635d9/300x300.jpg"
+  },
+  "game-32": {
+    "productId": "7a3764a0-4b37-4f07-bb23-b68310b67970",
+    "name": "Färgmixade småtomater 350g Klass 1 ICA",
+    "price": "39.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/1222abfc-64c1-412d-aa5c-766418a4b317/300x300.jpg"
+  },
+  "game-33": {
+    "productId": "e9068326-cd7e-4913-ab51-fbb2989e33e3",
+    "name": "Färsk standardmjölk 3,0% 1,5l Arla Ko®",
+    "price": "21.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/c7ad6300-799c-4fc5-b03e-04bd05019ff0/300x300.jpg"
+  },
+  "game-34": {
+    "productId": "3f29b298-71cc-4363-aa72-c775fd9b0aa6",
+    "name": "Hamburgerbröd Frisco 4-p 324g Korvbrödsbagarn",
+    "price": "25.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/8480969a-a560-4c77-addb-7f40f487a647/300x300.jpg"
+  },
+  "game-35": {
+    "productId": "e08c79db-2635-4dd5-ab34-54cfac140651",
+    "name": "Öl Alkoholfri Ekologisk 33cl Carlsberg",
+    "price": "10.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/8e3377e7-f462-4003-baa9-597eee6c628b/300x300.jpg"
+  },
+  "game-36": {
+    "productId": "0914a018-463f-495a-984e-995bb6d92343",
+    "name": "Toalettpapper 6-p Miljömärkt ICA",
+    "price": "38.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/27ef5f3f-3473-484a-9827-31fedc8e638c/300x300.jpg"
+  },
+  "game-37": {
+    "productId": "2d9fe4bd-837f-4142-8059-0c2962af2312",
+    "name": "Falukorv Ring 800g ICA",
+    "price": "36.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/8855b296-c852-4cf1-b844-bc9e28ed095c/300x300.jpg"
+  },
+  "game-38": {
+    "productId": "b536c109-0e18-404d-bd84-1ed401da0628",
+    "name": "Kycklingbröstfiléer Fryst 1kg Guldfågeln",
+    "price": "129.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/4925736f-c02f-4939-8264-b90c765126cd/300x300.jpg"
+  },
+  "game-39": {
+    "productId": "8686acb8-59c3-460b-95d5-a598e460d1df",
+    "name": "Mozzarella 125g Galbani",
+    "price": "18.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/05ce0394-58c9-47a9-80a5-2cfeaaa32c7d/300x300.jpg"
+  },
+  "game-40": {
+    "productId": "9ebd2b78-e2f5-4665-aae5-d455fc070264",
+    "name": "Paprika Gul ca 180g Klass 1 ICA",
+    "price": "11.15",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/1439859e-a140-4472-a46d-e1b3c5743930/300x300.jpg"
+  },
+  "game-41": {
+    "productId": "162356a6-3f44-4eee-90b9-037ae7959f21",
+    "name": "Läsk Cola Zero 2l Coca-Cola",
+    "price": "26.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/0f4f871e-06f8-4743-b069-b903c1d71911/300x300.jpg"
+  },
+  "game-42": {
+    "productId": "8c1ebd4b-c334-400e-8087-5e748fcba37f",
+    "name": "Tomatpuré 200g ICA",
+    "price": "15.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/3dfbf4b5-12e2-4054-a87e-9a14255daaad/300x300.jpg"
+  },
+  "game-43": {
+    "productId": "630ddedb-df5d-4c82-b5ed-101c4db2b168",
+    "name": "Crème fraiche 32% 5dl ICA",
+    "price": "32.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/501acb0e-e677-4189-882f-d468ae2ba56b/300x300.jpg"
+  },
+  "game-44": {
+    "productId": "e9b691ee-7d12-4613-8289-c34b90134304",
+    "name": "Crème fraiche Lätt 13% 2dl ICA",
+    "price": "14.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/ee76227a-15f3-45fd-b247-b75a1e6a4e88/300x300.jpg"
+  },
+  "game-45": {
+    "productId": "33f2b95e-ebcb-48f7-926c-2824238cbd32",
+    "name": "Jäst för matbröd 50g Kronjäst",
+    "price": "3.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/8a7e848c-b9fa-4f76-8cec-30ccb266fc3a/300x300.jpg"
+  },
+  "game-46": {
+    "productId": "d9d1626a-1eee-4501-a964-fb29a98b3e3c",
+    "name": "Färsk mellanmjölk 1,5% 1l Arla Ko®",
+    "price": "13.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/07149acb-73fe-4256-aca3-615058197bb3/300x300.jpg"
+  },
+  "game-47": {
+    "productId": "50da0801-666b-4e6e-bebf-1db628634183",
+    "name": "Majskakor Popcorn 125g Friggs",
+    "price": "21.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/92a7ded9-91b6-4f24-b1ca-9f33e6e2f557/300x300.jpg"
+  },
+  "game-48": {
+    "productId": "d49416ce-29ec-4d13-843d-bcf127d1d570",
+    "name": "Mild Yoghurt Naturell 3% 1000g Arla Ko®",
+    "price": "18.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/34680c51-89cc-40f9-b49d-3809420382aa/300x300.jpg"
+  },
+  "game-49": {
+    "productId": "c3119fec-ecc2-446f-b677-da26a6712fe7",
+    "name": "Nötfärs finmald 12% ca 1,6kg ICA",
+    "price": "174.32",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/d23ef463-6250-4680-838a-ff017a63c72f/300x300.jpg"
+  },
+  "game-50": {
+    "productId": "ddf62e08-c688-439c-aa21-9b3372938aee",
+    "name": "Gul lök 500g Klass 1 ICA",
+    "price": "19.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/7a152ab0-edad-4371-810f-e5f4169c9098/300x300.jpg"
+  },
+  "game-51": {
+    "productId": "9e04be9c-65dd-4c77-b34b-4c2b03a46ea8",
+    "name": "Karins Lasagne 390g Dafgård",
+    "price": "30.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/b5554fb3-b58a-4967-b01e-722d4062d940/300x300.jpg"
+  },
+  "game-52": {
+    "productId": "c9826741-a037-4349-8d2a-d91970d60036",
+    "name": "Fruktdryck Päron 3-p 60cl ICA",
+    "price": "9.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/b378153d-15b3-4070-9cd7-79103bd9eb2c/300x300.jpg"
+  },
+  "game-53": {
+    "productId": "56748555-f9ef-4d4f-87f2-51d2e3016bae",
+    "name": "Sparris grön ca 250g Klass 1 ICA",
+    "price": "35.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/e281dbc8-1c93-4fa4-b4ad-79340b7678b7/300x300.jpg"
+  },
+  "game-54": {
+    "productId": "d1ec906e-b28f-4801-8e27-17fc39b8c4ba",
+    "name": "Mellanmjölkdryck Laktosfri 1,5% 1,5l Valio",
+    "price": "25.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/8301a0ca-5905-4a92-a2ac-b3a6f0afcbf9/300x300.jpg"
+  },
+  "game-55": {
+    "productId": "c2da4803-1cac-427d-8002-b6c495b073cf",
+    "name": "Risgröt 500g Felix",
+    "price": "14.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/9bdcfbe1-e35c-4647-be90-a21ba547000a/300x300.jpg"
+  },
+  "game-56": {
+    "productId": "d0a77830-3a29-430a-8237-03edd7f6ddd3",
+    "name": "Spirali 500g ICA",
+    "price": "15.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/5a3c4522-121e-4e98-877a-59c423752296/300x300.jpg"
+  },
+  "game-57": {
+    "productId": "efd03587-8b02-4b5f-b62e-5a38a387bb93",
+    "name": "Äpple Royal Gala ca 220g Klass 1 ICA",
+    "price": "8.79",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/87987991-fd42-49b1-aa05-e03c2ced6bc3/300x300.jpg"
+  },
+  "game-58": {
+    "productId": "43c16483-fc72-4f17-8ed2-fba8b7e46dac",
+    "name": "Läsk 1,5l Coca-Cola",
+    "price": "19.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/38bfb5a3-4efd-43ff-8ea0-7f64a1aa0f2c/300x300.jpg"
+  },
+  "game-59": {
+    "productId": "851f6b33-a57d-4c5e-87f6-c6777c8907de",
+    "name": "Sötpotatis ca 350g Klass 1 ICA",
+    "price": "10.48",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/ebba5794-843f-4e7c-97c1-461b3e4e831f/300x300.jpg"
+  },
+  "game-60": {
+    "productId": "0c01b0d7-bf07-4518-be50-00309315b383",
+    "name": "Mjölkchoklad 200g Marabou",
+    "price": "29.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/8d2d31df-67ca-4848-b020-8143005d5e13/300x300.jpg"
+  },
+  "game-61": {
+    "productId": "c4e46b31-43c0-44fd-a556-db7c53efac65",
+    "name": "Kaffe Mellan 500g Arvid Nordquist",
+    "price": "60.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/ee4de3a3-02f8-4baa-837c-6a492a39b068/300x300.jpg"
+  },
+  "game-62": {
+    "productId": "2449034a-b080-45d7-9afb-4b556a0e0b61",
+    "name": "Tvättservetter Baby Oparfymerade 72-p ICA",
+    "price": "18.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/ebbafb86-9d11-45cf-8120-42df45bdd192/300x300.jpg"
+  },
+  "game-63": {
+    "productId": "7d274a2d-e7e5-4080-867f-85f677d7b61c",
+    "name": "Pågenlimpan 900g Pågen",
+    "price": "34.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/50fb4d38-aac5-4359-8b59-4750af704197/300x300.jpg"
+  },
+  "game-64": {
+    "productId": "52be9b05-ad18-4894-b8ed-e929cca7503c",
+    "name": "Bryggkaffe Mellanrost 450g Gevalia",
+    "price": "58.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/c86e9c2b-71ff-4e72-9fcc-8ff3723d7626/300x300.jpg"
+  },
+  "game-65": {
+    "productId": "ee6498a6-2cd6-4b19-acf1-7687feceb777",
+    "name": "Potatisgratäng 800g Peka",
+    "price": "28.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/ebb9f172-a926-4170-8f75-9340eb2c1f0e/300x300.jpg"
+  },
+  "game-66": {
+    "productId": "e7dabc1e-02db-44f5-bc25-5b4fee41d42a",
+    "name": "Mild Yoghurt Vanilj 2% 1000g Arla Ko®",
+    "price": "26.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/65e2bf3a-36b4-4f59-983c-bcd8088ac6ee/300x300.jpg"
+  },
+  "game-67": {
+    "productId": "2a97b3e4-2ec8-4229-9988-6670b50012fe",
+    "name": "Finbladig rucola Sköljd 65g ICA",
+    "price": "19.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/8be36bf6-15d4-4be8-abdd-87ee063dc0d7/300x300.jpg"
+  },
+  "game-68": {
+    "productId": "1d4d2086-d58a-427e-a080-b607f77738b8",
+    "name": "Färsk lättmjölk 0,5% 1,5l Arla Ko®",
+    "price": "18.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/b637d74a-34fd-49af-8638-bbd7aa773949/300x300.jpg"
+  },
+  "game-69": {
+    "productId": "61b1fc65-5081-4e6b-81d0-2a81d5f4de66",
+    "name": "Smör & Raps Mellan 57% 500g Bregott®",
+    "price": "52.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/6f05f067-9569-4326-ae9b-2bc80f4e9c97/300x300.jpg"
+  },
+  "game-70": {
+    "productId": "375c94cf-a5fd-450b-bd59-8c2b19f256c5",
+    "name": "Hamburgerbröd 8-p 448g Korvbrödsbagarn",
+    "price": "31.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/c8bd60a4-6d7d-46ab-b2b0-c9ccf7916148/300x300.jpg"
+  },
+  "game-71": {
+    "productId": "52ec37ca-7fed-4f76-afde-8ba8be8f4a98",
+    "name": "Apelsiner Navel 1kg Klass 1 ICA",
+    "price": "29.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/2ac71d4b-4d2b-40e9-a0c5-575f48486c65/300x300.jpg"
+  },
+  "game-72": {
+    "productId": "bb9a3992-5e0d-44e3-b718-9c8f85c40091",
+    "name": "Avokado ca 180g Klass 1 ICA",
+    "price": "13.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/61e7fc84-71e2-4b7d-804d-93b55a111073/300x300.jpg"
+  },
+  "game-73": {
+    "productId": "b35ef62f-606d-46ad-81ad-7ade570b6ebe",
+    "name": "Penne Rigate 500g ICA",
+    "price": "15.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/a3436cf8-8552-4198-86af-c20b10d36ab1/300x300.jpg"
+  },
+  "game-74": {
+    "productId": "2233e975-8790-48b2-8272-8460bdb6f8bb",
+    "name": "Tonfisk i vatten 170g ICA",
+    "price": "20.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/e94afe56-cf8c-48c3-be1e-5069eb772bd7/300x300.jpg"
+  },
+  "game-75": {
+    "productId": "feeaff13-4a07-4e06-b266-2e6a9ed59d55",
+    "name": "Läsk Cola Zero 33cl 10-p Coca-Cola",
+    "price": "79.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/bf38de6c-0cb3-4793-98ff-daa9872c513c/300x300.jpg"
+  },
+  "game-76": {
+    "productId": "e4209cae-7616-4121-9777-e1f75cac8b39",
+    "name": "Äpple Merpack 1kg Jonagold Klass 2 ICA",
+    "price": "15.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/04783dfb-8cd7-48b1-b720-c292591c6afb/300x300.jpg"
+  },
+  "game-77": {
+    "productId": "853abfe0-7e8f-4809-96a4-5b67c108868d",
+    "name": "Rosta Rostbröd 450g Pågen",
+    "price": "20.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/e0e52e77-970b-4a70-9fca-9106733110df/300x300.jpg"
+  },
+  "game-78": {
+    "productId": "b0a25230-ba6f-4c0c-991f-c223cfa58090",
+    "name": "Fruktdryck Multivitamin 2l Glocken Gold",
+    "price": "27.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/61b7e29e-a1b5-4e1c-b5d0-648b6e41ffc7/300x300.jpg"
+  },
+  "game-79": {
+    "productId": "73396d16-971e-4477-abe5-af5cb0ae5229",
+    "name": "Skogaholmslimpa skivad 775g Skogaholms",
+    "price": "27.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/a44360ce-77ae-4384-9f06-da368829b874/300x300.jpg"
+  },
+  "game-80": {
+    "productId": "3130d707-1923-455f-ac5b-6e10dc2edb28",
+    "name": "Cottage cheese Naturell 4% 500g KESO®",
+    "price": "32.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/5327a4af-e4a6-4f3a-99d2-d57453d193fb/300x300.jpg"
+  },
+  "game-81": {
+    "productId": "1b7b1401-ffb3-4a1b-9183-c535e5d30f24",
+    "name": "Toalettpapper 24-p Miljömärkt ICA",
+    "price": "116.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/15ee0894-ac5d-4877-a563-6fd0707ed16d/300x300.jpg"
+  },
+  "game-82": {
+    "productId": "4c393449-c25b-4666-af8f-fe7b624f2a0f",
+    "name": "Havredryck Naturell 1l ICA",
+    "price": "16.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/42b05c26-085f-4294-86a0-e9b93c384293/300x300.jpg"
+  },
+  "game-83": {
+    "productId": "31cdf608-9d56-4368-bf55-6cb1f9632d6f",
+    "name": "Broccoli 250g Klass 1 ICA",
+    "price": "17.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/d9cdd9c5-4c95-41c6-9c59-7b6a82df9ac9/300x300.jpg"
+  },
+  "game-84": {
+    "productId": "961a4e50-b042-4d9b-b7bd-93d7314d492c",
+    "name": "Vitost hel bit 20% 150g Apetina",
+    "price": "23.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/ca74c7ad-632f-4f0a-be03-8a5731fc012a/300x300.jpg"
+  },
+  "game-85": {
+    "productId": "f28cbdba-d559-45c6-acc9-d7d6c63a8626",
+    "name": "Fryspåsar 3l 40-p ICA",
+    "price": "17.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/d5502f0d-c51a-46ef-82e2-30ee40a647dd/300x300.jpg"
+  },
+  "game-86": {
+    "productId": "cdfbe861-29d8-46fc-aef7-900b3aeb784e",
+    "name": "Mango Fryst 250g ICA",
+    "price": "20.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/69f38eb2-7c6e-4c9e-9f94-4cdc332b2d43/300x300.jpg"
+  },
+  "game-87": {
+    "productId": "f1613b10-a570-40bc-9369-10b071ac5c6f",
+    "name": "Hushållspapper Mat & kök 4-p Miljömärkt ICA",
+    "price": "38.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/93d41ff0-f882-454f-8729-eaf80ed3f09a/300x300.jpg"
+  },
+  "game-88": {
+    "productId": "35dd012e-3dff-48c7-a869-c459f745f627",
+    "name": "Passerade tomater 390g ICA",
+    "price": "9.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/6f2f92fa-a3b9-43d9-9003-c4d58228676e/300x300.jpg"
+  },
+  "game-89": {
+    "productId": "e5c3ccef-ea4a-4e69-884f-ee5d4721e88e",
+    "name": "Färsk standardmjölk 3% 1l Arla Ko®",
+    "price": "14.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/55ad9493-0a47-4cfa-82c6-28bfaaff003e/300x300.jpg"
+  },
+  "game-90": {
+    "productId": "a495f8cf-2ba1-436f-8581-c0914b7a78fd",
+    "name": "Havredryck Barista Glutenfri 3% 1l Oddlygood®",
+    "price": "21.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/09a27d90-af14-459a-b8c7-3f8ece7189e5/300x300.jpg"
+  },
+  "game-91": {
+    "productId": "9586b1f3-7467-412a-b788-a77f4b461b9d",
+    "name": "Toalettpapper 18-p Miljömärkt Serla",
+    "price": "144.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/6ea9bc57-1638-447b-bb0d-2e6ea387ecd6/300x300.jpg"
+  },
+  "game-92": {
+    "productId": "3393ab97-1302-4099-a9e2-b2efddb74091",
+    "name": "Chicken nuggets Fryst 350g Guldfågeln",
+    "price": "44.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/2e58ed2d-bf6f-438a-bc78-acea861c055e/300x300.jpg"
+  },
+  "game-93": {
+    "productId": "015b2dde-1013-4f5f-bd06-935a9af64335",
+    "name": "Körsbärstomater 250g Klass 1 ICA",
+    "price": "18.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/b7fec1e8-fb1f-406e-b912-d38e9296e12c/300x300.jpg"
+  },
+  "game-94": {
+    "productId": "92689288-73c1-4fc5-9b79-fae1cc788de4",
+    "name": "Taco sauce Medium 230g Santa Maria",
+    "price": "16.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/28b85248-4f8b-4ebb-97cd-6d3fd8c4a2c3/300x300.jpg"
+  },
+  "game-95": {
+    "productId": "59552425-a4e4-48b0-83e4-04bd6acf0723",
+    "name": "Smör- & rapsolja flytande 5dl 80% Arla Köket®",
+    "price": "27.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/36b40030-78d5-409e-8c71-faca05de1e92/300x300.jpg"
+  },
+  "game-96": {
+    "productId": "ac09af42-82ed-4022-9f44-1f949c14bdcd",
+    "name": "Gul lök 1kg Klass 1 ICA",
+    "price": "13.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/ec247caf-3c10-4f3c-8013-d810a6d38835/300x300.jpg"
+  },
+  "game-97": {
+    "productId": "635f1e8d-fc53-497c-ba1c-77ad8956dfd9",
+    "name": "Bryggkaffe Skånerost 450g Zoegas",
+    "price": "65.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/1442bfc0-0aca-4c76-a8e7-da9ae0f01185/300x300.jpg"
+  },
+  "game-98": {
+    "productId": "e3a2c50a-5645-485d-94dd-92f6cc427ace",
+    "name": "Smör Normalsaltat 81% 500g ICA",
+    "price": "49.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/3884477a-5567-48fb-93bb-18f129543acf/300x300.jpg"
+  },
+  "game-99": {
+    "productId": "9a3625a8-3127-477e-ad6f-79e6b0fdf38b",
+    "name": "Blandfärs 21% 500g ICA",
+    "price": "50.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/34cf6814-b9d0-4238-bce0-99e9043f1e0f/300x300.jpg"
+  },
+  "game-100": {
+    "productId": "39edc33e-d841-47a2-92e2-03a5bf36f8ea",
+    "name": "Purjolök ca 330g Klass 1 ICA",
+    "price": "23.08",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/f3dcb023-274b-40c0-9f97-557613178753/300x300.jpg"
+  },
+  "game-101": {
+    "productId": "5eff68ed-38e1-4777-a8f1-5aa92f0bc2d3",
+    "name": "Hallon 125g Klass 1 ICA",
+    "price": "39.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/90db2073-1e72-466b-b5ca-40138b04b2b4/300x300.jpg"
+  },
+  "game-102": {
+    "productId": "fbcf3dce-2fdd-4a27-85f9-4769319f6a5f",
+    "name": "Vispgrädde 36% Längre hållbarhet 2,5dl ICA",
+    "price": "19.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/af4cce39-ca68-4a39-a173-ec10d74a6ed2/300x300.jpg"
+  },
+  "game-103": {
+    "productId": "c2a69a25-5ced-4196-aa66-23540ecdf372",
+    "name": "Kikärtor 380g ICA",
+    "price": "11.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/4c6fd0ca-00f5-42d5-ab8e-4d65cdb76d1f/300x300.jpg"
+  },
+  "game-104": {
+    "productId": "a7052448-98db-4e03-93c0-764a9cc1c07e",
+    "name": "Vetekaka 24-p 900g Polarbröd",
+    "price": "34.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/0a2b00a5-7c78-475d-a6bb-5b086703e4d1/300x300.jpg"
+  },
+  "game-105": {
+    "productId": "dadff3f7-a066-457b-a375-5b76571415dc",
+    "name": "Hamburgare 4-p 452g ICA",
+    "price": "54.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/35a52997-c9e9-4055-af5c-320e4e75611c/300x300.jpg"
+  },
+  "game-106": {
+    "productId": "7aef1e42-1065-4320-8f75-46f0865d0b37",
+    "name": "Blåbär 125g Klass 1 ICA",
+    "price": "29.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/0c76652d-0f96-496e-987c-f94d033ab1b1/300x300.jpg"
+  },
+  "game-107": {
+    "productId": "3728dacb-c046-4292-a810-8434ae8c9980",
+    "name": "Mellanmjölk 1,5% Ekologisk 1,5l Arla Ko®",
+    "price": "23.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/59a37fd5-b422-4d8e-957b-c24311909d7e/300x300.jpg"
+  },
+  "game-108": {
+    "productId": "aedde825-1ff8-46d0-9f3e-dcc08e2671aa",
+    "name": "Kvarg Mild Vanilj 0,2% Laktosfri 1000g Arla®",
+    "price": "44.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/57ec99d0-6c57-4546-b704-418a1f824b6f/300x300.jpg"
+  },
+  "game-109": {
+    "productId": "e1f84e39-5cc1-42d1-9ede-b8980dda70c8",
+    "name": "Zucchini styck ca 350g Klass 1",
+    "price": "17.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/f4f05c9b-d9ad-405d-a325-ae3531173679/300x300.jpg"
+  },
+  "game-110": {
+    "productId": "2ca1c914-cf5d-4045-963f-f3e977881e33",
+    "name": "Präst® ost mellan 31% ca 720g Arla Ko®",
+    "price": "91.40",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/181d1fd6-f0c2-4e46-9461-9768bb1bc57b/300x300.jpg"
+  },
+  "game-111": {
+    "productId": "cf78ca6f-30b1-4935-b48e-8f0386fc6c58",
+    "name": "Mellanmål Hallon 175g Risifrutti",
+    "price": "11.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/39fa9c0e-12c6-4c2c-aae2-d036a13e6891/300x300.jpg"
+  },
+  "game-112": {
+    "productId": "6b9bca3d-e1b7-44f1-922d-785f42041945",
+    "name": "Yoghurt Original Jordgubb & Smultron 2% 1000g Yoggi®",
+    "price": "29.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/b5429633-441b-4410-b1dc-920a630dde14/300x300.jpg"
+  },
+  "game-113": {
+    "productId": "a61d8fa8-7c10-4bb3-a2fa-f25c5ca845a1",
+    "name": "Lättyoghurt Naturell Mild 0,5% 1000g Arla Ko®",
+    "price": "18.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/d305e67d-e8b9-4631-aea9-61833cbc07d5/300x300.jpg"
+  },
+  "game-114": {
+    "productId": "5e9114b0-1a64-4b0c-8231-96f7080aa054",
+    "name": "Spenat i storpack Sköljd 200g ICA",
+    "price": "19.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/85ffe9ce-a214-40e5-8923-4b71eb5a8ed4/300x300.jpg"
+  },
+  "game-115": {
+    "productId": "f2ee1dd7-0e8f-499f-b8d2-434a58b12d3b",
+    "name": "Smör & Raps Extrasaltat 75% 500g Bregott®",
+    "price": "49.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/d3544419-02a8-4f8a-9b20-aa2bd2259b4e/300x300.jpg"
+  },
+  "game-116": {
+    "productId": "4361be27-27a0-4e36-a3fd-6a39ba2f1ce9",
+    "name": "Crème fraiche 32% 2dl Arla Köket®",
+    "price": "14.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/82b564b2-e5a5-4492-915b-a1dc0faeafc2/300x300.jpg"
+  },
+  "game-117": {
+    "productId": "e59f5ec2-440f-46d3-8644-c76b3982e60a",
+    "name": "Digestive 400g ICA",
+    "price": "13.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/244298f7-08fa-4b0c-9653-2bb93861a83b/300x300.jpg"
+  },
+  "game-118": {
+    "productId": "e1678676-7882-4997-9abb-a0cb57917f5a",
+    "name": "Tvättlappar 250-p ICA Basic",
+    "price": "45.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/5d4cba26-5758-477d-b029-5d04f2d6521c/300x300.jpg"
+  },
+  "game-119": {
+    "productId": "d08db0b4-8ef7-434a-826c-d0aaa13e181d",
+    "name": "Standardmjölkdryck 3,0% Laktosfri 1,5l Arla Ko®",
+    "price": "23.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/01fdc0f0-6ff6-45a9-9db2-1b1e2b751e09/300x300.jpg"
+  },
+  "game-120": {
+    "productId": "13c79b39-7717-41b5-a2b9-39aa0cb209cd",
+    "name": "Mellanmål Jordgubb 165g Mannafrutti",
+    "price": "11.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/ea58009c-6fe2-4e10-872a-c0ab16a058c0/300x300.jpg"
+  },
+  "game-121": {
+    "productId": "cbe13cef-e5f7-4aec-a69f-fa7b28bba960",
+    "name": "Broccolibuketter Fryst 800g ICA",
+    "price": "27.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/6bea3405-5658-4f0b-be9e-06653d7bf0d4/300x300.jpg"
+  },
+  "game-122": {
+    "productId": "af41f04c-61fb-439f-8c33-71c81e160128",
+    "name": "Isbergssallad ca 440g Klass 1 ICA",
+    "price": "13.18",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/923681fa-8585-4c85-913b-401baf92b3a9/300x300.jpg"
+  },
+  "game-123": {
+    "productId": "f0bd25b9-6144-4ffc-a639-dae039dceec1",
+    "name": "Korvbröd 10-p 270g Korvbrödsbagarn",
+    "price": "21.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/666f3de0-362c-4c94-af26-35447a61e86d/300x300.jpg"
+  },
+  "game-124": {
+    "productId": "dcb6189f-7c5f-4f33-9e3e-63143a3b351f",
+    "name": "Fetaost Original 150g Fontana",
+    "price": "32.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/d6a1d361-42ea-439d-b64b-574990f9fb7b/300x300.jpg"
+  },
+  "game-125": {
+    "productId": "8f25e3e5-685b-40fb-a43d-47256b592ebc",
+    "name": "Finkrossade Tomater 3-p 1,2kg Mutti",
+    "price": "39.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/70864b9e-d541-400a-b135-b5c77102181a/300x300.jpg"
+  },
+  "game-126": {
+    "productId": "6672f03c-55a1-4dbd-9af9-19a0d1cad043",
+    "name": "Färskost Naturell 200g Philadelphia",
+    "price": "23.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/8814cf6e-840f-45aa-b01d-b24dbb097513/300x300.jpg"
+  },
+  "game-127": {
+    "productId": "9ef6e6fb-4a5e-4c50-9789-ba4b39a77b12",
+    "name": "Panpizza Original Fryst 170g Billys",
+    "price": "17.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/57fcbbc7-8c56-491a-9fdd-9305a4a7c2cf/300x300.jpg"
+  },
+  "game-128": {
+    "productId": "be1ada2c-e161-443b-8e13-6c0c862c2ddf",
+    "name": "Krossade Tomater 390g KRAV ICA I love eco",
+    "price": "17.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/d3f8c505-8d86-4718-8780-a7b33d8c1488/300x300.jpg"
+  },
+  "game-129": {
+    "productId": "34dea240-0288-4861-8488-2d63eb62f324",
+    "name": "Bacon skivat 140g ICA",
+    "price": "17.50",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/d619b12d-d33b-4e90-ac53-3eb704f3482f/300x300.jpg"
+  },
+  "game-130": {
+    "productId": "dba01cd0-c314-4dbc-aa54-bc58f37074ea",
+    "name": "Bacon Skivat 3-p 420g ICA",
+    "price": "40.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/b0bd70de-872f-4e60-aa8e-5a5bfe934825/300x300.jpg"
+  },
+  "game-131": {
+    "productId": "7d5a33ab-0c70-4e0f-9277-26cfe5e6497f",
+    "name": "Korvbröd 8-p 336g Pågen",
+    "price": "32.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/9e1c4ffd-8efe-42c2-9bb9-12487b2de0eb/300x300.jpg"
+  },
+  "game-132": {
+    "productId": "caac06fb-d2f9-4732-86ed-982977766763",
+    "name": "Mjölk 3% 1l ICA",
+    "price": "12.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/4b6e9436-46b3-4767-97ab-5c296fa83b1b/300x300.jpg"
+  },
+  "game-133": {
+    "productId": "54739643-bc27-4f4d-b572-f037e018d72d",
+    "name": "Chorizo Cayenne Paprika 75% Kötthalt 300g Scan",
+    "price": "38.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/d74548f4-53aa-456f-b08a-069eedfd4c3d/300x300.jpg"
+  },
+  "game-134": {
+    "productId": "2de78e2e-2d64-4a0c-8f15-e2d031ecd2ed",
+    "name": "Vetemjöl 2kg ICA",
+    "price": "17.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/f183fd1f-e748-4680-9084-9477fce9603e/300x300.jpg"
+  },
+  "game-135": {
+    "productId": "4673f9b4-3373-42c7-b0b9-de64a48ecf4b",
+    "name": "Tacoost Riven 150g ICA",
+    "price": "22.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/d0ca0693-2d32-44b3-b930-e2c5a60fe9ed/300x300.jpg"
+  },
+  "game-136": {
+    "productId": "382d1ef2-49e8-4647-9752-8b82cfb3e189",
+    "name": "Färsk lättmjölk 0,5% 1l Arla Ko®",
+    "price": "12.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/945f68c3-bbf4-41ac-aab7-e7c5670a6de1/300x300.jpg"
+  },
+  "game-137": {
+    "productId": "dfa9d9a3-3495-4a08-99ef-7a5778d4b8bc",
+    "name": "Hushållspapper 3-p Miljömärkt Serla",
+    "price": "28.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/21db91ed-0199-4c95-bde7-19542d1453bf/300x300.jpg"
+  },
+  "game-138": {
+    "productId": "0e2ada18-ae51-4bcb-bed2-b9e92ea6133c",
+    "name": "Finkrossade Tomater 390g ICA",
+    "price": "15.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/774cf06b-40b5-4b15-ab2c-e78486960b41/300x300.jpg"
+  },
+  "game-139": {
+    "productId": "069584a8-bf21-406f-ae56-c0a9924ee1d5",
+    "name": "Crème fraiche Lätt 13% 5dl ICA",
+    "price": "30.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/79242808-76ab-44b6-993b-9b7e41ec629b/300x300.jpg"
+  },
+  "game-140": {
+    "productId": "c92c3e3a-168d-4d4f-b2e7-8a5939d9589c",
+    "name": "Färsk mellanmjölk 1,5% Ekologisk 1l Arla Ko®",
+    "price": "16.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/df13d68a-4007-49dc-8b8b-3db8ca2f2b45/300x300.jpg"
+  },
+  "game-141": {
+    "productId": "c3f5553c-d4d5-46a1-a252-662a2af2bf1b",
+    "name": "Choklad Dubbel nougat 43g Marabou",
+    "price": "10.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/fbd689bf-8307-472a-9453-2631e3138cf4/300x300.jpg"
+  },
+  "game-142": {
+    "productId": "102c6277-7cbb-4a94-9e71-e84a821039dd",
+    "name": "Gnocchi Pasta 500g ICA",
+    "price": "15.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/5416cc6d-08a3-4076-8435-3e09d35a9f7e/300x300.jpg"
+  },
+  "game-143": {
+    "productId": "22d2c2ca-8fda-4b4a-b1ef-c973c3546d9c",
+    "name": "Pizzakit 1-p 600g ICA",
+    "price": "27.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/d0d1ef53-1bf2-4697-b088-376233507078/300x300.jpg"
+  },
+  "game-144": {
+    "productId": "f87f7c20-cd9e-438f-8cd5-5d9901458a62",
+    "name": "Taco Kryddmix Original Mild 28g 3-p Santa Maria",
+    "price": "30.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/c128ea70-8e92-4fbe-af61-9cfd25c1e88e/300x300.jpg"
+  },
+  "game-145": {
+    "productId": "a23d8e67-dd18-4e48-92e9-30deac5d81f5",
+    "name": "Gifflar Kanel 300g Pågen",
+    "price": "26.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/81fe698b-a0b3-45d0-970d-786dff10a8e2/300x300.jpg"
+  },
+  "game-146": {
+    "productId": "4ad96c61-faa6-448b-b07a-3cafc64b8c11",
+    "name": "Bad & Toalettpapper 16-p Miljömärkt ICA",
+    "price": "94.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/3b8f4062-831e-4b24-8f49-7cc1fbe733af/300x300.jpg"
+  },
+  "game-147": {
+    "productId": "6037c535-68c6-4d2f-b63b-7aa362b50f07",
+    "name": "Lantskinka Rökt 120g ICA",
+    "price": "26.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/4c4da27a-1d57-419e-a84f-946ef975cf41/300x300.jpg"
+  },
+  "game-148": {
+    "productId": "02c404c6-75c1-4e86-83bb-5044ec284370",
+    "name": "Skinka Rökt Tunna Skivor 200g ICA",
+    "price": "25.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/91de1809-5a57-4ef2-9f1a-5ba9e930d331/300x300.jpg"
+  },
+  "game-149": {
+    "productId": "81c4c2ea-424c-4cfe-b11d-2b642c048f0b",
+    "name": "Pommes strips Fryst 1kg ICA",
+    "price": "27.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/097bee30-14fe-4bc2-8366-fa344f2b5ffd/300x300.jpg"
+  },
+  "game-150": {
+    "productId": "3ae924cb-2b86-46f9-a559-05316a1515f4",
+    "name": "Paprikamix 400g Klass 1 ICA",
+    "price": "29.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/03878fdf-5443-4138-adb6-77466aaccc85/300x300.jpg"
+  },
+  "game-151": {
+    "productId": "59a32342-9959-4d4e-adb1-31a951ac2047",
+    "name": "Kastanjechampinjon ca 15g Klass 1 ICA",
+    "price": "1.79",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/b11860c8-481f-4d33-998e-2b22b48cd067/300x300.jpg"
+  },
+  "game-152": {
+    "productId": "59a8f82a-5894-4387-88a1-c47eaac564c8",
+    "name": "Pasta Spaghetti 1000g Barilla",
+    "price": "23.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/282678b0-ce1d-48e1-8118-c1a2309eb561/300x300.jpg"
+  },
+  "game-153": {
+    "productId": "aa8df7c7-4a25-46a9-a4eb-81b07fa26a22",
+    "name": "Sallatsmix Krispig Sköljd 65g ICA",
+    "price": "16.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/f0ca0dca-b0f3-4aad-87e1-61e66bf2ed1f/300x300.jpg"
+  },
+  "game-154": {
+    "productId": "fb7c8770-83c4-43ff-aa86-28b97cf56654",
+    "name": "Grillkorv Kyckling 400g ICA",
+    "price": "20.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/dd046080-8cc8-4cdd-bf2e-be7fb69a912a/300x300.jpg"
+  },
+  "game-155": {
+    "productId": "82d707c8-056d-4f81-ae44-8fef3fe3c986",
+    "name": "Äpple Golden Delicious ca 220g Klass 1 ICA",
+    "price": "9.67",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/db579961-a8d6-476d-90e3-9b81d0bb232b/300x300.jpg"
+  },
+  "game-156": {
+    "productId": "c266a83b-8753-4edf-8aa8-a1d859be2e15",
+    "name": "Knäckebröd Falu Råg-Rut 470g Wasa",
+    "price": "27.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/1cf33d8c-cbf7-497f-9107-824b8e34da54/300x300.jpg"
+  },
+  "game-157": {
+    "productId": "babcf777-d336-4d79-810a-8b025ea62320",
+    "name": "Öl Alkoholfri 33cl Mariestads",
+    "price": "13.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/ca47efe2-93ca-42da-8a80-67159890c988/300x300.jpg"
+  },
+  "game-158": {
+    "productId": "06661542-229f-4f93-ab31-51fdc127fe76",
+    "name": "Äpplejuice 2l Bravo",
+    "price": "43.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/6ed5ab16-fba8-4e5a-b948-15c911147bd1/300x300.jpg"
+  },
+  "game-159": {
+    "productId": "db1fd5b6-98af-4129-a38b-625ff8fd1fc6",
+    "name": "Bearnaisesås Original 230ml Lohmanders",
+    "price": "23.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/854de5a7-4bff-4443-ada9-59bc9ec4e44d/300x300.jpg"
+  },
+  "game-160": {
+    "productId": "e1088d6e-57f0-4f43-b869-c8fffa11e8a5",
+    "name": "Gräddalternativ Mat Laktosfri 4% 250ml Flora",
+    "price": "13.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/a0fe2a13-1406-4c7b-8082-368a6d417f50/300x300.jpg"
+  },
+  "game-161": {
+    "productId": "5411063e-7797-4e82-973c-88e2af97e025",
+    "name": "Grillkorv 500g ICA",
+    "price": "27.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/b7b27091-db46-4ebc-8603-a76484c83f80/300x300.jpg"
+  },
+  "game-162": {
+    "productId": "7f029bb2-8918-4a87-89ed-5927975377ca",
+    "name": "Fruktdryck Jordgubb&Passion 3-p 60cl ICA",
+    "price": "9.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/220ea29b-111b-49c0-b7a5-361f7d38b201/300x300.jpg"
+  },
+  "game-163": {
+    "productId": "99e9a0ec-1fc8-4a62-a523-b885de3c4705",
+    "name": "LantGoda Surdegsbröd 650g Pågen",
+    "price": "37.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/37aa4e39-635b-4f3d-9339-7967f4533a4d/300x300.jpg"
+  },
+  "game-164": {
+    "productId": "de891c77-1d77-4fc2-b9a7-3446e140a4cf",
+    "name": "Kassler ca 600g ICA",
+    "price": "65.97",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/5436c197-b302-4fc9-bc9d-85b846019984/300x300.jpg"
+  },
+  "game-165": {
+    "productId": "822751ae-4b79-45ed-b9d6-b9eb10d7d8a7",
+    "name": "Kokosmjölk 400ml ICA Asia",
+    "price": "13.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/787f72ea-d0c2-4603-9a62-1837b2d14f13/300x300.jpg"
+  },
+  "game-166": {
+    "productId": "c127a67a-aa18-42f9-b586-08c8ba17f95e",
+    "name": "JätteFranska Rostbröd 1,1kg Pågen",
+    "price": "32.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/53d86f2c-dc52-4393-bda3-ce47bc2eaadd/300x300.jpg"
+  },
+  "game-167": {
+    "productId": "5f39005d-9d7b-4130-aa03-e2a93ea4f020",
+    "name": "Fruktdryck Apelsin 3-p 60cl ICA",
+    "price": "9.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/25db511d-54ed-4c6f-85cc-f6fc3602607b/300x300.jpg"
+  },
+  "game-168": {
+    "productId": "ee100267-dabe-49a1-aa63-5ce39d938723",
+    "name": "Aubergine ca 225g Klass 1 ICA",
+    "price": "16.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/5d782d04-703d-4091-a2e2-f13f912eb845/300x300.jpg"
+  },
+  "game-169": {
+    "productId": "4a0118f4-1d05-4b0d-a0b7-e1853e00c346",
+    "name": "Rågkaka 30-p 900g Polarbröd",
+    "price": "34.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/1676bcdc-6d97-44f1-abed-f82040167d73/300x300.jpg"
+  },
+  "game-170": {
+    "productId": "f92f4461-0c0f-4e28-8649-09d5eb1a4682",
+    "name": "Strips Supercrunch 750g Aviko",
+    "price": "32.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/34eef6ab-36cc-4372-8110-467f8fc7eb8b/300x300.jpg"
+  },
+  "game-171": {
+    "productId": "b9ab241b-84f9-4060-94ea-a89844b77fb7",
+    "name": "Halloumi orginal 200g Fontana",
+    "price": "37.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/0866a4d1-8e50-4ccd-a57f-8023b3c08149/300x300.jpg"
+  },
+  "game-172": {
+    "productId": "3a76bec4-c69c-4c16-ae78-0cd32fb808e4",
+    "name": "Kycklinginnerfilé Fryst 700g Kronfågel",
+    "price": "64.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/c378b510-b84d-4d7d-80db-d26c85b99de1/300x300.jpg"
+  },
+  "game-173": {
+    "productId": "2e8efa65-40f7-403c-b738-c098aaa1c1fb",
+    "name": "Läsk 1,5l Trocadero Zero",
+    "price": "18.50",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/33fa5b2f-f1f9-41ef-bf45-6ff78e93695e/300x300.jpg"
+  },
+  "game-174": {
+    "productId": "5d0aafd5-9897-435a-a78e-5352f6a5e7e5",
+    "name": "Levainbröd Surdeg Vete 650g Pågen",
+    "price": "41.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/58869c3d-ae67-465a-a78f-51e5cfc4d4fb/300x300.jpg"
+  },
+  "game-175": {
+    "productId": "f8afaa0b-5006-4598-86de-84ebafda3429",
+    "name": "Daim Dubbel 56g Marabou",
+    "price": "10.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/333db978-658c-4a06-b890-0e84560a3061/300x300.jpg"
+  },
+  "game-176": {
+    "productId": "2bdc11cf-521f-4423-92e8-70ec549837d5",
+    "name": "Toalettpapper Classic 12-p Lambi",
+    "price": "79.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/3c2b4ff6-64fd-401e-8768-2e5fec34c2f2/300x300.jpg"
+  },
+  "game-177": {
+    "productId": "3f447d17-ebfb-4d23-89f5-17db43a861b0",
+    "name": "Lättmjölkdryck 0,5% Laktosfri 1,5l Arla Ko®",
+    "price": "23.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/b8ed0d3e-7a5a-43da-90f0-256032581119/300x300.jpg"
+  },
+  "game-178": {
+    "productId": "15d3b4c0-d781-4b4b-b58f-10edcb96d7ae",
+    "name": "Juice Apelsin 1l God Morgon®",
+    "price": "28.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/8fdae255-62c1-4b6f-a5d5-6ea2d4b850bd/300x300.jpg"
+  },
+  "game-179": {
+    "productId": "c013352b-b430-46bf-919d-d1f485ed59e3",
+    "name": "Tunnbröd Sarek 375g Polarbröd",
+    "price": "23.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/c8eea310-e223-4e33-ab40-6c992df560fa/300x300.jpg"
+  },
+  "game-180": {
+    "productId": "595f529f-1ba5-43a6-9532-91dc4db9d0e6",
+    "name": "Juice Äpple 1l God Morgon®",
+    "price": "22.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/b19d44a8-3092-4beb-9dc6-cde6be4f51ee/300x300.jpg"
+  },
+  "game-181": {
+    "productId": "3e0fc31c-543a-45ef-8158-d329b1d158a2",
+    "name": "Kaviar original 300g Kalles",
+    "price": "34.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/57919417-469e-4ec2-b06a-34fab43d63ff/300x300.jpg"
+  },
+  "game-182": {
+    "productId": "b90089f9-55db-4f27-bdb8-116d692752c8",
+    "name": "Godis Original 160g Ahlgrens Bilar",
+    "price": "19.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/9d47a209-a3bd-4488-a664-ecb7ce2d2098/300x300.jpg"
+  },
+  "game-183": {
+    "productId": "0161bf6e-2936-4848-84c9-8ae0803d70cd",
+    "name": "Roast'n toast Rostbröd 800g Pågen",
+    "price": "35.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/50ff1777-96c8-45d8-8fb0-2dedb773cf33/300x300.jpg"
+  },
+  "game-184": {
+    "productId": "09c8fb67-3eb1-47a7-9b53-8ed086c60f4d",
+    "name": "Ketchup Original 1kg Felix",
+    "price": "36.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/0c166756-0c0a-4bbe-a258-c50f2ad5b57d/300x300.jpg"
+  },
+  "game-185": {
+    "productId": "71490544-0b54-40ba-a35b-78e1f5173de8",
+    "name": "Feta 150g Zeta",
+    "price": "29.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/fd6d3d8f-2a0d-4a15-8a58-513314ca5c4d/300x300.jpg"
+  },
+  "game-186": {
+    "productId": "312c8500-e6cc-4c17-a2ea-a4e263f839fd",
+    "name": "Filmjölk 3% 1000g Arla Ko®",
+    "price": "14.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/72b9bc48-2cbf-45fb-869d-cd72ecdf5621/300x300.jpg"
+  },
+  "game-187": {
+    "productId": "d346b097-eae7-4be0-b535-dbcecd0b5717",
+    "name": "Farfalle 500g ICA",
+    "price": "15.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/e31d9f63-d71a-4b72-983b-f7a6bf57410e/300x300.jpg"
+  },
+  "game-188": {
+    "productId": "1e1e4d96-f811-4041-840c-88f3987d0ce9",
+    "name": "Päron Conference Merpack 1kg ICA Klass 2",
+    "price": "19.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/e8cb22c3-022c-445f-9a99-eefec5e77bd6/300x300.jpg"
+  },
+  "game-189": {
+    "productId": "0fe5a105-8f2d-47e2-a29d-72ff016f88e2",
+    "name": "Palsternacka ca 140g Klass 1 ICA",
+    "price": "6.29",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/5d9e96fe-9ecc-4aad-823a-4788fc0231ad/300x300.jpg"
+  },
+  "game-190": {
+    "productId": "9b443b2c-d226-4094-a333-292004b44b2a",
+    "name": "Päron Migo ca 220g Klass 1 ICA",
+    "price": "11.65",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/32edbec1-f0dc-4ae9-b6bb-767195a38159/300x300.jpg"
+  },
+  "game-191": {
+    "productId": "36275b1f-51e0-4d53-bc24-6bc142e40d7e",
+    "name": "Strösocker 2kg ICA",
+    "price": "33.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/7e71dcb2-7ba3-430e-9cca-6153cad49da9/300x300.jpg"
+  },
+  "game-192": {
+    "productId": "254af2c5-4d6f-4a0f-aee8-525939dc473b",
+    "name": "Herrgård® ost mild 28% ca 730g Arla Ko®",
+    "price": "92.67",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/6dbf602d-2822-46d4-9ee3-b47cc058c67d/300x300.jpg"
+  },
+  "game-193": {
+    "productId": "e8a680dc-1e16-4d96-b7c5-d3814e0b370b",
+    "name": "Briketter 2,5kg ICA",
+    "price": "64.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/ee2bfadf-395d-4d96-83bc-84afb5423c82/300x300.jpg"
+  },
+  "game-194": {
+    "productId": "4f3af62d-4f0d-4791-87c4-a551fc6cb01f",
+    "name": "Bomullsrondeller 80-p ICA Basic",
+    "price": "7.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/26b5ea60-c295-41c2-8c29-8b6b918eebbf/300x300.jpg"
+  },
+  "game-195": {
+    "productId": "763070d5-398d-4da2-8e0d-f809f6b56aae",
+    "name": "Rädisa Knippe ca 300g Klass 1 ICA",
+    "price": "14.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/96b92bfd-c1e9-41d3-85c1-4b98d63223ea/300x300.jpg"
+  },
+  "game-196": {
+    "productId": "dcc09d27-f62f-49ac-8ebb-e63900b99b1f",
+    "name": "Filmjölk 3% 1500g Arla Ko®",
+    "price": "22.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/62b44d38-5c37-4604-af64-19a1ea115c78/300x300.jpg"
+  },
+  "game-197": {
+    "productId": "f695c878-1069-49bb-81ea-565712b1ab46",
+    "name": "Passionsfrukt ca 50g Klass 1 ICA",
+    "price": "8.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/3fa6f18b-e5b2-42d4-b3fc-50412cc2abaf/300x300.jpg"
+  },
+  "game-198": {
+    "productId": "a9015106-8f07-41e4-864d-0b60d6a66386",
+    "name": "Chips Sourcream & onion 275g Estrella",
+    "price": "32.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/7a64601a-1419-48a8-9e4f-a6fe2cb5aa60/300x300.jpg"
+  },
+  "game-199": {
+    "productId": "eaa74be0-5bb3-487f-b7b0-048a6ac9e4d1",
+    "name": "Vita bönor i tomatsås 415g Heinz",
+    "price": "11.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/8155124c-3544-485b-9c97-127f1bb4894a/300x300.jpg"
+  },
+  "game-200": {
+    "productId": "01fb13d2-4580-43be-b871-96a490446494",
+    "name": "Blandfärs 50/50 1kg ICA",
+    "price": "93.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/e5b51bd6-5dad-4013-86d4-976beb16931f/300x300.jpg"
+  },
+  "game-201": {
+    "productId": "a4cfcf3f-6b51-4a9b-91c1-02c8d864e865",
+    "name": "Ärtor Fryst 600g ICA",
+    "price": "22.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/9fd8a393-fda6-474b-8780-4a39a60110ba/300x300.jpg"
+  },
+  "game-202": {
+    "productId": "8271fbe2-d3c5-4bbf-a11a-748f727165b4",
+    "name": "Bakpotatis ca 300g Klass 1 ICA",
+    "price": "15.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/1433a06b-dc3c-4971-a4e1-49a75abfed2b/300x300.jpg"
+  },
+  "game-203": {
+    "productId": "dfde7f2a-1582-4bc2-ac1b-4ad0a4401baf",
+    "name": "Lövbiff Innanlår ca 450g ICA",
+    "price": "94.48",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/b03acf25-ef05-4313-ad06-35e303bab643/300x300.jpg"
+  },
+  "game-204": {
+    "productId": "00dc5e75-37ab-4509-a9bc-343b763cde38",
+    "name": "Original 520ml YES",
+    "price": "34.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/a29381b0-b67b-430e-a582-f9cf64ad99c6/300x300.jpg"
+  },
+  "game-205": {
+    "productId": "db06ab4c-1604-4c8f-90c4-4dd46a6ff38f",
+    "name": "Fil Naturell 3% 1000g ICA",
+    "price": "12.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/3f4a5645-9402-4318-85d8-e2176cdc2195/300x300.jpg"
+  },
+  "game-206": {
+    "productId": "5afe35d1-3b92-40e5-bae9-8dfad6593469",
+    "name": "Köttbullar Små Delikatess Fryst 420g Felix",
+    "price": "58.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/56c458fc-28b1-4ab2-acbd-245a79ddf1f2/300x300.jpg"
+  },
+  "game-207": {
+    "productId": "2de6d969-a2ae-49e7-abf4-a9bd2ef95db4",
+    "name": "Läsk Coca-Cola 2l",
+    "price": "26.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/83349d5e-794b-4b0a-9481-87ad15e5529b/300x300.jpg"
+  },
+  "game-208": {
+    "productId": "753fc6ed-6980-4fe4-9efe-cb326eda4633",
+    "name": "Vatten Kolsyrad Citron 1,5l Loka",
+    "price": "9.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/81cc3d3c-c6d9-4ad9-8654-c9624a46aea8/300x300.jpg"
+  },
+  "game-209": {
+    "productId": "5a5e4197-0571-4802-894a-5fc6a2b66462",
+    "name": "Salladsost 200g ICA Basic",
+    "price": "21.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/7a833b7a-e800-488d-95cf-894c42cb70b0/300x300.jpg"
+  },
+  "game-210": {
+    "productId": "f95e274a-4ffb-4695-8378-3139b92e9083",
+    "name": "Bryggkaffe Mollbergs blandning 450g Zoegas",
+    "price": "69.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/d3c85de2-884b-469f-ab58-6c4d366d584e/300x300.jpg"
+  },
+  "game-211": {
+    "productId": "2e89836b-5e6c-41ae-83ca-dfd125607eae",
+    "name": "Salladslök 125g Klass 1 ICA",
+    "price": "27.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/6f90edd3-2590-4464-b3f0-adb8aa7f9249/300x300.jpg"
+  },
+  "game-212": {
+    "productId": "0d682ef2-b7cd-415c-a70b-09ef3918dbff",
+    "name": "Gammaldags Idealmakaroner 750g Kungsörnen",
+    "price": "16.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/3b1456a1-fe84-4629-9677-a63b39b9dd72/300x300.jpg"
+  },
+  "game-213": {
+    "productId": "41f2ba4a-c496-4cdf-83b3-d3941c7f5b2d",
+    "name": "Avfallspåse 26L 25-p ICA Basic",
+    "price": "11.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/53b5ad9c-b121-43a8-9dc5-af3e1cb273f5/300x300.jpg"
+  },
+  "game-214": {
+    "productId": "a3dc2b44-8e2b-4913-94c0-8bf3022dd095",
+    "name": "Lingongrova Special 500g Pågen",
+    "price": "32.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/9ca1a467-d816-4fda-876c-98e8f7362855/300x300.jpg"
+  },
+  "game-215": {
+    "productId": "c4d711e6-558b-434f-abb9-a980dc8edf95",
+    "name": "Soltorkade tomater 200g ICA",
+    "price": "23.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/fc1b1eab-8927-4f09-8636-5e36246e7752/300x300.jpg"
+  },
+  "game-216": {
+    "productId": "325a4fd0-32de-4037-9f6f-a798604467d4",
+    "name": "Lättmjölk 0,5% 1l ICA",
+    "price": "12.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/7192a415-fe6b-43d8-9d4c-83d118f89cbe/300x300.jpg"
+  },
+  "game-217": {
+    "productId": "9800a816-9ce3-4883-b8ff-a7861843d298",
+    "name": "Hushållsost mild 26% ca 1,1kg Arla",
+    "price": "134.15",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/08089e8b-f5e5-4719-8c70-43dcd0f68723/300x300.jpg"
+  },
+  "game-218": {
+    "productId": "15b0e463-df11-4e9a-87fc-bc6fab6ad504",
+    "name": "Dill i ask 20g Klass 1 ICA",
+    "price": "14.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/849547e7-c42c-410d-893b-ad21e2cff3b7/300x300.jpg"
+  },
+  "game-219": {
+    "productId": "764096f2-e6d6-4111-8bbc-ab00f2417d7e",
+    "name": "Tandkräm Original 75ml Sensodyne",
+    "price": "28.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/f511a95f-a547-4872-b408-169894288a75/300x300.jpg"
+  },
+  "game-220": {
+    "productId": "23768bab-4bef-49cf-8614-f37c40c7c7d9",
+    "name": "Diskborste ICA",
+    "price": "11.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/ddbe8077-ff6e-4397-89ec-26a9541cd43e/300x300.jpg"
+  },
+  "game-221": {
+    "productId": "259ec313-df9b-4410-9dc5-4100bf943d04",
+    "name": "Majskakor Ost 125g Friggs",
+    "price": "21.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/be983fdd-61da-46ad-a717-182e8ea55988/300x300.jpg"
+  },
+  "game-222": {
+    "productId": "4bd39204-192c-4b4d-87bb-bb8148fbacc1",
+    "name": "Nötfärs 5% 500g ICA",
+    "price": "83.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/07da593e-10df-4aec-b75e-acdf85c98f07/300x300.jpg"
+  },
+  "game-223": {
+    "productId": "72cd1822-18f4-441e-8c49-8ec98532c425",
+    "name": "Avokado i nät 700g Klass 1 ICA",
+    "price": "29.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/bcba6f4b-9139-4c70-a625-e8481145d394/300x300.jpg"
+  },
+  "game-224": {
+    "productId": "99fff8c4-1eaf-48ce-9ae0-27c0c7ee76db",
+    "name": "Delikatess Gourmetpotatis 900g Klass 1 ICA",
+    "price": "39.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/14e2f6f1-5ae0-4744-ac05-85cc964d3322/300x300.jpg"
+  },
+  "game-225": {
+    "productId": "40d2a847-ce58-43a8-bf2f-02848fe1f5d0",
+    "name": "Vatten Kolsyrad Original 1,5l Ramlösa",
+    "price": "12.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/1188ceb1-eb20-4dcc-a017-dc6d9f032cea/300x300.jpg"
+  },
+  "game-226": {
+    "productId": "48956a72-ca6b-41cb-83cf-5b31f10e50e2",
+    "name": "Rostad lök 150g ICA",
+    "price": "19.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/3ae1af3b-f782-4625-a8de-9fac783d743f/300x300.jpg"
+  },
+  "game-227": {
+    "productId": "c20f59c0-1d72-4723-a2f1-863bbd5d899f",
+    "name": "Toalettpapper 6-p Miljömärkt Serla",
+    "price": "42.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/637d88cb-3af7-475a-86d0-9a28c1fb6cfc/300x300.jpg"
+  },
+  "game-228": {
+    "productId": "90385007-e625-40ce-953a-e47d942e021d",
+    "name": "Crème fraiche Laktosfri 32% 5dl ICA",
+    "price": "35.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/dd812b2d-ed6b-468e-ae18-f1ff6cc7c551/300x300.jpg"
+  },
+  "game-229": {
+    "productId": "dd872d24-69c2-4168-8ca2-744c8f87d4b1",
+    "name": "Champinjoner Skivade 290g ICA",
+    "price": "14.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/37ea7d00-153d-4170-8cbe-4ad8113a0a3d/300x300.jpg"
+  },
+  "game-230": {
+    "productId": "e1219519-89d1-444a-a9a3-a0f2f4965f01",
+    "name": "Gammaldags Idealmakaroner 1300g Kungsörnen",
+    "price": "29.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/e9d27d7b-31c8-4135-b009-c8e39734475a/300x300.jpg"
+  },
+  "game-231": {
+    "productId": "538ca1e7-9f53-4aec-9b27-4c5396f498bd",
+    "name": "Matlagningsgrädde Laktosfri 13% 5dl ICA",
+    "price": "28.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/46649623-6ca8-4b8e-a67b-53c8fc54c391/300x300.jpg"
+  },
+  "game-232": {
+    "productId": "4a82a6a3-9c62-41ff-823f-b59ba817969f",
+    "name": "Grötbröd 780g Pågen",
+    "price": "35.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/748ccce6-93f7-43e2-a00b-ed7b82829c02/300x300.jpg"
+  },
+  "game-233": {
+    "productId": "85a8d98d-4092-4e08-befd-068a24961817",
+    "name": "Vatten Kolsyrad Granatäpple 1,5l Ramlösa",
+    "price": "12.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/ca873103-63d0-4b57-925d-f40316408f84/300x300.jpg"
+  },
+  "game-234": {
+    "productId": "43667122-c289-44e4-9286-1f6cf764310f",
+    "name": "Pastej Original Skivbar 250g Arboga",
+    "price": "13.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/f20cbc00-2b20-4d81-a653-e39561854e37/300x300.jpg"
+  },
+  "game-235": {
+    "productId": "fd54f044-9848-492c-a6ac-2df2c0144023",
+    "name": "Havregryn 1,5kg ICA",
+    "price": "23.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/635cfe33-104f-4020-a152-049cd5b2eedf/300x300.jpg"
+  },
+  "game-236": {
+    "productId": "949e83cf-d93c-4919-8968-524f203c7145",
+    "name": "Finbladig Machesallat Sköljd 65g ICA",
+    "price": "17.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/8ccef689-e0f5-4476-ad57-7f94786712ad/300x300.jpg"
+  },
+  "game-237": {
+    "productId": "0c525c0a-b202-46eb-88cd-78c1d692cbf6",
+    "name": "Hallon Fryst 250g ICA",
+    "price": "20.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/4c4a7baf-a462-4ce6-9493-9968808842a4/300x300.jpg"
+  },
+  "game-238": {
+    "productId": "2689f3e5-6476-4677-8fab-e4b9c0596e7a",
+    "name": "Champinjon svensk ca 15g Klass 1 ICA",
+    "price": "1.47",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/58e7325c-5394-4a0b-9894-e5e75c37cde2/300x300.jpg"
+  },
+  "game-239": {
+    "productId": "63254719-6a30-4efd-83bd-8c6c4ec00b2b",
+    "name": "Japp Dubbel 60g Marabou",
+    "price": "10.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/a346ddd2-420c-419e-828c-c8d0b99e8dc8/300x300.jpg"
+  },
+  "game-240": {
+    "productId": "eec1b50f-f28f-40fd-8339-dba722713a9b",
+    "name": "Minibaguetter 6-p 300g ICA",
+    "price": "16.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/3eda5156-257b-4952-8a2d-16e3853388bf/300x300.jpg"
+  },
+  "game-241": {
+    "productId": "0a9c9855-2259-42aa-ab30-fadd00323f99",
+    "name": "Pan Pizza Original 9-pack Billys",
+    "price": "110.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/3cf835a8-098b-41c6-b0d3-10ec81f70101/300x300.jpg"
+  },
+  "game-242": {
+    "productId": "d53f82fb-67e3-4c0a-9f79-47fcaea42650",
+    "name": "Pasta Gemelli 500g ICA",
+    "price": "15.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/e36dfe70-0dd1-417b-9b06-386dbb36703a/300x300.jpg"
+  },
+  "game-243": {
+    "productId": "e3001dba-5b02-4514-b2d6-70b10757f7a8",
+    "name": "Hamburgare Fryst 8x90g 720g ICA",
+    "price": "68.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/91b7491c-3e33-41e8-a1e7-008d15aa933c/300x300.jpg"
+  },
+  "game-244": {
+    "productId": "cd54c234-ffcb-4bab-8d1d-4f7e239fa3d2",
+    "name": "Rapsolja 1l ICA",
+    "price": "29.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/197a4696-9bad-4a98-b4fc-318b6a05cc8d/300x300.jpg"
+  },
+  "game-245": {
+    "productId": "14ab5978-61b6-4aa8-99ba-e96887f5d0ad",
+    "name": "Hushållspapper 4-p Miljömärkt ICA Basic",
+    "price": "28.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/6eeb9c94-95ac-44a9-8486-5db58228e432/300x300.jpg"
+  },
+  "game-246": {
+    "productId": "900b0602-cbb3-4dc3-8b92-c480cf3a8696",
+    "name": "Gräddglass Glassbåtar 6-p 840ml Sia Glass",
+    "price": "49.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/c6fb75c6-caba-4b7d-ac5d-d2b7317241c1/300x300.jpg"
+  },
+  "game-247": {
+    "productId": "e10c0d9c-5e6f-4211-b973-3a3975b88495",
+    "name": "Färsk standardmjölk Ekologisk 3,0% 1l Arla Ko®",
+    "price": "17.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/dd3ad157-f053-4c3d-9224-f130e422d9cb/300x300.jpg"
+  },
+  "game-248": {
+    "productId": "f33b8730-179c-4de9-bb8a-85fbceb24557",
+    "name": "Hönö Jollekaka 400g Pågen",
+    "price": "29.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/e4be2aeb-bf84-4169-bb81-ddb500561f73/300x300.jpg"
+  },
+  "game-249": {
+    "productId": "579498ee-0b18-45c6-a668-a1db80c65331",
+    "name": "Emilskinka Rökt 120g Pärsons",
+    "price": "29.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/10a68760-4ab9-417b-ad31-99b930912676/300x300.jpg"
+  },
+  "game-250": {
+    "productId": "e5ae1010-661c-4fb8-996c-58430b71b1b3",
+    "name": "Gräddfil 12% 5dl ICA",
+    "price": "22.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/1cd2c86f-747a-4614-9f87-634568730040/300x300.jpg"
+  },
+  "game-251": {
+    "productId": "d2cc3fb8-88e7-4abe-b326-f748eb600a5c",
+    "name": "Citron ca 200g Klass 1 ICA",
+    "price": "6.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/8a2b7536-a0d2-4c8f-bbc7-586e2309c88f/300x300.jpg"
+  },
+  "game-252": {
+    "productId": "ab98dd20-4bba-4ec0-8669-40ae7d72a188",
+    "name": "Färsk mellanmjölk 1,5% 1,5l Arla Ko®",
+    "price": "19.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/98c8b668-06eb-411f-a35e-bddabfd8ab4c/300x300.jpg"
+  },
+  "game-253": {
+    "productId": "0113a197-0a48-4df8-ad0e-16dd298f1f92",
+    "name": "Färskpotatis Otvättad ca 50g Klass 1 ICA Styck",
+    "price": "1.50",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/45f64b2b-95b1-4cd2-81be-8d3edb0c0280/300x300.jpg"
+  },
+  "game-254": {
+    "productId": "67554c27-0fef-42f9-93fe-d5aa04d817c4",
+    "name": "Gurka styck Klass 1",
+    "price": "17.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/1f9e3ec1-11c5-4b89-8487-ce47bf9cb285/300x300.jpg"
+  },
+  "game-255": {
+    "productId": "2aa08959-663b-4d8a-bed1-12b69f1b945d",
+    "name": "Havredryck iKaffe 3% 1l Oatly",
+    "price": "20.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/7411e076-550d-4f5d-bb34-d664ad18593a/300x300.jpg"
+  },
+  "game-256": {
+    "productId": "2ab79c97-b613-47d8-93fc-3690a0a31aa9",
+    "name": "Krossade tomater 390 g ICA",
+    "price": "12.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/eef24f6e-012f-4484-a544-9c2e5c810c20/300x300.jpg"
+  },
+  "game-257": {
+    "productId": "e749bdd7-5d5d-4d5d-9927-e2c8e65e2baf",
+    "name": "Kvisttomater Romantica 400g Klass 1 ICA",
+    "price": "36.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/6787eb23-1eb8-47a8-9572-b511c5ed566d/300x300.jpg"
+  },
+  "game-258": {
+    "productId": "397dda45-1ce4-418e-bf3b-b94d4870a3cc",
+    "name": "Laxfilé Fryst 4-p 500g Pacific brand",
+    "price": "144.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/f87e6781-7885-4341-af1d-24537666d01f/300x300.jpg"
+  },
+  "game-259": {
+    "productId": "c47e3b09-c5b8-45f3-b9c9-72d5e2dd2cf1",
+    "name": "Vispgrädde 36% Längre hållbarhet 5dl ICA",
+    "price": "28.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/6b429c20-f5ad-4c88-9b9c-5818f1dce0ff/300x300.jpg"
+  },
+  "game-260": {
+    "productId": "a32a6389-9674-474f-8e98-e6268d53e148",
+    "name": "Äpple Granny Smith ca 190g Klass 1 ICA",
+    "price": "8.54",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/35fe19ca-48f7-48e1-b6d5-5baeff382bbb/300x300.jpg"
+  },
+  "game-261": {
+    "productId": "26e3a598-6261-4d9a-b2e0-04c616605fde",
+    "name": "Äpple Pink Lady ca 180g Klass 1 ICA",
+    "price": "8.45",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/7540c363-ae16-4c5d-9800-298f77123222/300x300.jpg"
+  },
+  "game-262": {
+    "productId": "de41b3bf-66ce-4751-9002-f2f7f7a6dd42",
+    "name": "Tomat ca 110g Klass 1",
+    "price": "4.17",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/446dc0e0-5765-425b-b041-f7219e7c870d/300x300.jpg"
+  },
+  "game-263": {
+    "productId": "e91c94ab-d96c-473e-8e9b-92bade03e65b",
+    "name": "Smör & Raps Normalsaltat 75% 500g Bregott®",
+    "price": "49.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/27376439-18b6-43b7-9a52-b817c2ad0101/300x300.jpg"
+  },
+  "game-264": {
+    "productId": "669bb86a-3b9a-4900-95d5-83ae72ba9a93",
+    "name": "Röda babyplommontomater 250g Klass 1 ICA",
+    "price": "15.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/7c72ec8e-227b-42e3-aef8-ae2326d4487c/300x300.jpg"
+  },
+  "game-265": {
+    "productId": "39eaaf6e-7718-4fe1-8654-c5de6a6745fd",
+    "name": "Rödlök ca 150g Klass 1 ICA",
+    "price": "4.49",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/27339576-7583-4eff-bc83-45dfda3c7694/300x300.jpg"
+  },
+  "game-266": {
+    "productId": "5a8e56f0-ed38-43cc-9fbb-d9bb1e887314",
+    "name": "Päron Conference ca 220g Klass 1 ICA",
+    "price": "7.25",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/c071b1ac-7880-4ab3-aaca-c9db5c78b00f/300x300.jpg"
+  },
+  "game-267": {
+    "productId": "659fcc1d-1929-49be-b13c-4184a108d245",
+    "name": "Paprika Röd ca 225g Klass 1 ICA",
+    "price": "17.99",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/3cba6228-df72-405d-a1b9-4a76fd42d4c6/300x300.jpg"
+  },
+  "game-268": {
+    "productId": "512a9773-0165-4242-95de-4bce06457622",
+    "name": "Morötter Tvättade ca 100g Klass 1 ICA",
+    "price": "3.00",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/0608191f-4243-4833-84b7-5aa2c5db384a/300x300.jpg"
+  },
+  "game-269": {
+    "productId": "36280057-7340-44bd-bd8c-49a0907518d1",
+    "name": "Nudlar Biff 85g Samyang",
+    "price": "6.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/3dd9a884-af01-4cba-8bdd-990778acfe47/300x300.jpg"
+  },
+  "game-270": {
+    "productId": "5d8e14a9-594d-4e72-9db8-ef2571a1ec8e",
+    "name": "Nudlar Kycklingsmak 85g Samyang",
+    "price": "6.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/7c85e38a-93f3-4e41-893e-dfffbbadd1e7/300x300.jpg"
+  },
+  "game-271": {
+    "productId": "598ab7c6-8042-418f-a719-2b09c162bb4c",
+    "name": "Falukorv Extra fin 71% Kötthalt 550g ICA",
+    "price": "41.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/4119ff3b-fe51-4ee2-bdb9-9b29e6714378/300x300.jpg"
+  },
+  "game-272": {
+    "productId": "76456a58-5650-4c31-91f6-a236f2a86e7e",
+    "name": "Dill Finhackad Fryst 40g ICA",
+    "price": "13.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/606f938e-f048-4b19-8fbb-e4f5ff4a72c2/300x300.jpg"
+  },
+  "game-273": {
+    "productId": "b3afe5de-b637-43ad-825d-724caaa22528",
+    "name": "Crème fraiche Lätt Paprika & chili 11% 2dl ICA",
+    "price": "18.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/445c00c5-6cf4-47c9-8632-506f8ee87739/300x300.jpg"
+  },
+  "game-274": {
+    "productId": "db7d3131-76a8-436d-aba5-a2c0c724ef20",
+    "name": "Crème fraiche Laktosfri 32% 2dl ICA",
+    "price": "19.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/a02caf43-1be3-479a-99ec-90fb555a1eb3/300x300.jpg"
+  },
+  "game-275": {
+    "productId": "10f4dd34-9071-4606-9184-c5201f8477c0",
+    "name": "Cottage cheese Naturell 4% 500g ICA",
+    "price": "33.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/fe689150-f762-44f5-a2b6-0e606e7d0991/300x300.jpg"
+  },
+  "game-276": {
+    "productId": "9fa36585-8ba9-49f8-879f-40426e4bf311",
+    "name": "Citronjuice Från koncentrat 200ml ICA",
+    "price": "10.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/89c2d492-9f34-4a11-998e-04e12448133b/300x300.jpg"
+  },
+  "game-277": {
+    "productId": "a1000290-4403-45f7-9c0c-5654ec240355",
+    "name": "Champinjoner skivade och smakrika 180g ICA",
+    "price": "12.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/b3ce2c27-08a1-4411-acb3-489d3b627c9b/300x300.jpg"
+  },
+  "game-278": {
+    "productId": "efc2f2bb-ae48-4aa5-ba62-9d389b45a8b4",
+    "name": "Bönor Svarta 380g ICA",
+    "price": "11.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/6b4493de-04ad-403c-8625-001af277cfc9/300x300.jpg"
+  },
+  "game-279": {
+    "productId": "12e2395d-7097-45bf-89ab-b1ab014eb30d",
+    "name": "Byxblöjor Strl 6 13-20kg 32-p ICA",
+    "price": "98.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/6a3f02a1-4fe7-476d-8168-8545174e2415/300x300.jpg"
+  },
+  "game-280": {
+    "productId": "dfc5229b-dcbd-482b-9165-9ed29fa3eac8",
+    "name": "Bryggkaffe Mellanrost 450g ICA",
+    "price": "48.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/87a6d9cf-42ce-4a37-91cc-62e8fa8c5bfa/300x300.jpg"
+  },
+  "game-281": {
+    "productId": "49434c59-f3a2-4e42-9945-41bf3dbaee3f",
+    "name": "Brie 200g ICA",
+    "price": "37.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/d20e4221-c4ed-49ef-af6e-99e0ae3755de/300x300.jpg"
+  },
+  "game-282": {
+    "productId": "35e4df4d-a915-496d-8abc-df2f9e574ddd",
+    "name": "Blåbär Svenska 1kg ICA",
+    "price": "86.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/78277cc7-7ce6-408b-8db4-d9c49e6dbf4c/300x300.jpg"
+  },
+  "game-283": {
+    "productId": "d5d805dc-b0eb-450b-9bca-20fcc0fa0264",
+    "name": "Blomkål Fryst 600g ICA",
+    "price": "28.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/3f8a3475-fd77-4a59-9cee-3851d1839c8c/300x300.jpg"
+  },
+  "game-284": {
+    "productId": "4ae7d3c9-eee7-49ef-be10-42a909cd44b5",
+    "name": "Blomkål ca 900g Klass 1 ICA",
+    "price": "49.46",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/15d2eb49-50fe-4a5b-b7cf-5243e7dd68d6/300x300.jpg"
+  },
+  "game-285": {
+    "productId": "e0538a70-2cdf-4903-bf62-52a5a408f696",
+    "name": "Bearnaise 200g ICA",
+    "price": "19.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/25a299ae-f591-44ca-9c90-a16660d26d69/300x300.jpg"
+  },
+  "game-286": {
+    "productId": "4845eeec-df8c-4f09-945b-01e846236b08",
+    "name": "Basmatiris 1kg ICA Asia",
+    "price": "46.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/cc8a77e7-ab52-4da2-a611-86f9cc5839ef/300x300.jpg"
+  },
+  "game-287": {
+    "productId": "2b5ca908-38fb-4487-ba83-988035a5a8f7",
+    "name": "Basilika Finhackad Fryst 40g ICA",
+    "price": "13.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/70d7e26f-15b7-4f59-b8d4-a86a54df8982/300x300.jpg"
+  },
+  "game-288": {
+    "productId": "67166bea-ba8e-4ce5-aec5-952ad05d514a",
+    "name": "Bakpulver 225g ICA",
+    "price": "15.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/0f00f758-e10e-43cd-9812-ff2547d99f33/300x300.jpg"
+  },
+  "game-289": {
+    "productId": "cfe8668b-3dc2-4e4e-9799-cb3af0aff4b7",
+    "name": "Bacon Tärnad 140g ICA",
+    "price": "18.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/7eda0513-3073-4d59-998c-c7532e0f55b9/300x300.jpg"
+  },
+  "game-290": {
+    "productId": "4813a97b-d022-4fda-8596-7c7979372e7e",
+    "name": "Avfallspåse Extra Stor 40L 20-p ICA",
+    "price": "32.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/da5c0d4b-292d-4d6f-a196-b9d6603d6f88/300x300.jpg"
+  },
+  "game-291": {
+    "productId": "dd855c14-b67f-49f3-b260-478f1f580c38",
+    "name": "Ananas Skivor i juice 227g 3-p ICA",
+    "price": "43.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/cada4c2c-aeed-4396-87f9-113caf1668b5/300x300.jpg"
+  },
+  "game-292": {
+    "productId": "d3c0cd1d-13fb-4ecc-9a5d-1887f5728da5",
+    "name": "A-fil Naturell 3% 1000g ICA",
+    "price": "14.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/fea76939-01e2-4ee9-8411-6c2fe0bdc8cf/300x300.jpg"
+  },
+  "game-293": {
+    "productId": "3f7378fa-a913-4508-a219-20d343bad0ef",
+    "name": "A-fil Naturell 3% 1,5l ICA",
+    "price": "25.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/814d98a2-e94d-49fd-a53d-45d6df1d100c/300x300.jpg"
+  },
+  "game-294": {
+    "productId": "de55abd4-60dc-44cc-b670-8012bcab023e",
+    "name": "A-fil 3% Laktosfri 1l ICA",
+    "price": "26.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/d0daa027-8405-4d39-965b-49ccf78074ce/300x300.jpg"
+  },
+  "game-295": {
+    "productId": "70cb2315-3495-4ca7-9516-3a2b37427007",
+    "name": "Hamburgare Fryst 20x90g 1,8kg ICA",
+    "price": "199.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/edbc20f2-c40d-49b2-8658-1dbd6a859735/300x300.jpg"
+  },
+  "game-296": {
+    "productId": "cc5f477d-c2e2-4c06-b5c2-46a12158d32a",
+    "name": "Hallon & blåbär Fryst 250g ICA",
+    "price": "22.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/62c95cab-6ac8-491e-a4e3-90c4a52f2625/300x300.jpg"
+  },
+  "game-297": {
+    "productId": "c92d69cc-ec27-4d4f-aea0-5d0b7dda1fb4",
+    "name": "Hackad spenat Fryst 600g ICA",
+    "price": "20.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/5abd6803-1800-4787-b783-69959ddc588f/300x300.jpg"
+  },
+  "game-298": {
+    "productId": "7a5e5966-575e-4b34-938d-8e4695268ade",
+    "name": "Gräslök i ask 20g Klass 1 ICA",
+    "price": "18.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/12908a35-ce2b-4423-94ef-78132a016181/300x300.jpg"
+  },
+  "game-299": {
+    "productId": "753ebd59-8d4a-42c6-87ff-f23f66f03164",
+    "name": "Lantskinka Kokt 120g ICA",
+    "price": "26.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/9c89cea6-0551-4d16-a9ec-beff5398a1e2/300x300.jpg"
+  },
+  "game-300": {
+    "productId": "bbce64d8-7749-4b8e-84df-f786109c49c8",
+    "name": "Köttbullar Stekta Färska 1kg ICA",
+    "price": "74.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/0e3af387-00b2-489e-9234-36a9c85ded27/300x300.jpg"
+  },
+  "game-301": {
+    "productId": "0e64559c-8f57-4e12-bfb7-04c5fbc5a824",
+    "name": "Kyckling bröstfile Fryst mörad 1kg ICA",
+    "price": "93.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/80d2380b-6012-482d-a7db-4737293deda8/300x300.jpg"
+  },
+  "game-302": {
+    "productId": "c550180a-55c6-41a8-8375-2faaaceed8e5",
+    "name": "Krispiga Potatisräfflor Fryst 600g ICA",
+    "price": "28.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/22107d52-089d-4aef-bc34-bfa1edf24947/300x300.jpg"
+  },
+  "game-303": {
+    "productId": "4a48911f-4d7d-4181-9aa9-bcf3d0f164d4",
+    "name": "Kladdkaka Glutenfri Fryst 400g ICA",
+    "price": "33.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/98e9d40c-4c94-440f-8253-6e645f8fbe5c/300x300.jpg"
+  },
+  "game-304": {
+    "productId": "46b0aa70-a297-4765-bfdf-9c5836008b73",
+    "name": "Kidneybönor 380g ICA",
+    "price": "11.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/432229e2-926a-400f-84a7-8abdb9a05de7/300x300.jpg"
+  },
+  "game-305": {
+    "productId": "46cbb42e-46d5-48c3-b2c2-e75792a5126c",
+    "name": "Karré benfri i bit ca 1,1 kg ICA",
+    "price": "115.45",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/b34fd791-26ba-456a-adee-2ec0cb092b84/300x300.jpg"
+  },
+  "game-306": {
+    "productId": "5876e1d5-3841-4c27-aa27-743e59375347",
+    "name": "Kalkon Rökt Tunna Skivor 200g ICA",
+    "price": "44.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/5863548f-f6fa-4d88-87ac-868a7458c9e7/300x300.jpg"
+  },
+  "game-307": {
+    "productId": "af0ab6d7-05a7-4ea2-9eed-51c8edce7ce6",
+    "name": "Kalkon Rökt 120g ICA",
+    "price": "31.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/665efaa7-1ffd-4358-a988-5108fc6e2bc6/300x300.jpg"
+  },
+  "game-308": {
+    "productId": "85a942de-91df-46ec-8583-339b878ed1f4",
+    "name": "Kakao 200g ICA",
+    "price": "29.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/acbd4534-a429-4156-8378-9ca065524a88/300x300.jpg"
+  },
+  "game-309": {
+    "productId": "df9158ff-34fd-4a24-97db-ce6d31485187",
+    "name": "Kaffefilter 1x4 oblekta 80-p ICA",
+    "price": "15.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/67255de1-4066-4985-9ee9-ff040b94ae8a/300x300.jpg"
+  },
+  "game-310": {
+    "productId": "ce239bf1-6dbe-49b9-8fc8-ff1f5fd38a00",
+    "name": "Kabanoss Smal 89% kötthalt 225g ICA",
+    "price": "34.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/8fbbef5f-cefa-432f-8f96-80bfd98152f5/300x300.jpg"
+  },
+  "game-311": {
+    "productId": "1810c672-a251-4f23-afe0-1d075ee1aa08",
+    "name": "Juice Äpple utan fruktkött 1.75l ICA",
+    "price": "29.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/22fd14a4-63ec-4267-83e7-7239aee09c1a/300x300.jpg"
+  },
+  "game-312": {
+    "productId": "b3dca763-6435-4dfe-a22c-f77d4b144b0a",
+    "name": "Jordnötter 250g ICA",
+    "price": "19.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/18a94fe4-d2a2-49e8-adf8-69aa63c08068/300x300.jpg"
+  },
+  "game-313": {
+    "productId": "62a8a486-e4b0-4041-ac1e-63b54844bac4",
+    "name": "Jordgubbstärningar 250g ICA",
+    "price": "17.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/dd5d39b7-7ad1-4eef-a9a2-b6618a365dc6/300x300.jpg"
+  },
+  "game-314": {
+    "productId": "b913a5d2-8e31-4811-bca1-a45b0dc38a42",
+    "name": "Jordgubbar 400g Klass 1 ICA",
+    "price": "65.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/31df18da-32bf-4700-9d46-5bef5c31b726/300x300.jpg"
+  },
+  "game-315": {
+    "productId": "791c33c7-7569-4e4a-a51f-6df2dd7ef442",
+    "name": "Jasminris 1kg ICA",
+    "price": "35.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/a86970a1-9674-49de-8099-d75bc7c1fe0e/300x300.jpg"
+  },
+  "game-316": {
+    "productId": "6061485b-b8f4-4da8-94f0-7d5ea13588de",
+    "name": "Iskuber 2kg ICA",
+    "price": "26.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/304eeeef-bccb-4100-9539-2542f3ae2362/300x300.jpg"
+  },
+  "game-317": {
+    "productId": "41a1f4eb-c1f6-47f1-832c-4974f5a0e6fa",
+    "name": "Högrevsfärs 15% 500g ICA",
+    "price": "103.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/0dce21da-bea1-474e-a5ba-58be08cd57b6/300x300.jpg"
+  },
+  "game-318": {
+    "productId": "854d5c12-2015-4bed-a2bc-914e5b1ee8c0",
+    "name": "Hushållspapper Torka plus 2-p ICA",
+    "price": "61.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/0bdb9e19-3d80-4a4d-8b6c-910aa2a5082f/300x300.jpg"
+  },
+  "game-319": {
+    "productId": "b792265c-a0b2-40eb-aee3-f1311257c35b",
+    "name": "Honung Flytande flera sorters blommor 350g ICA",
+    "price": "37.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/ea11856b-68ec-4354-80fb-280a9329ed3d/300x300.jpg"
+  },
+  "game-320": {
+    "productId": "3a79ce38-4ec0-4b76-9321-111b8f80e9da",
+    "name": "Herrgård 28% mellanlagrad ca 750g ICA",
+    "price": "81.71",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/1e41522f-2937-4756-81ed-6484aa862d66/300x300.jpg"
+  },
+  "game-321": {
+    "productId": "022cf950-038d-485e-b8f0-70a8492472bd",
+    "name": "Havredryck Barista 1l ICA",
+    "price": "19.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/93e97752-da29-4e5a-9ffc-8db7e6709218/300x300.jpg"
+  },
+  "game-322": {
+    "productId": "bc3f0660-e278-4ed5-b54a-211e2ab3dfb1",
+    "name": "Haricots verts Fryst 600g ICA",
+    "price": "28.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/3170d13d-3a46-48ba-b3ba-091c20e65def/300x300.jpg"
+  },
+  "game-323": {
+    "productId": "3ff562f6-299f-4d02-a2bb-b59c5d211c76",
+    "name": "Lök gul ca 180g Klass 1 ICA",
+    "price": "2.69",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/02c14025-a793-4534-a041-6b1b50cc4e34/300x300.jpg"
+  },
+  "game-324": {
+    "productId": "47a69b31-032d-4672-8f2c-25d919930060",
+    "name": "Lime ca 90g Klass 1 ICA",
+    "price": "6.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/d2062ef4-83d2-47a7-aed0-30846298099d/300x300.jpg"
+  },
+  "game-325": {
+    "productId": "13715daf-1692-429b-bd0a-182c037534b0",
+    "name": "Läsk Pepsi Max 1,5l",
+    "price": "21.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/a4c51ed1-ec3e-4a48-84f5-3cca05f226d1/300x300.jpg"
+  },
+  "game-326": {
+    "productId": "d42ddf83-ea51-49f9-ae4b-ccba9e7fd56f",
+    "name": "Läsk Cola Zero 1,5l Coca-Cola",
+    "price": "19.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/84fc521b-79e5-4e6c-b613-92bbe95226d1/300x300.jpg"
+  },
+  "game-327": {
+    "productId": "45c407c2-5be6-4f2c-bc6c-584a7c21e0b8",
+    "name": "Mellanmjölk Lite längre hållbarhet 1,5% 1,5l ICA",
+    "price": "18.95",
+    "image": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/2f6a5112-6082-4cc3-b8da-b5d1bb2a3b8c/300x300.jpg"
+  }
+}

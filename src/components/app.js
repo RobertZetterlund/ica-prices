@@ -1,21 +1,14 @@
-import { h } from 'preact';
-import { Router } from 'preact-router';
-
-import Header from './header';
+import { Router } from "preact-router";
 
 // Code-splitting is automated for `routes` directory
-import Home from '../routes/home';
-import Profile from '../routes/profile';
+import Home from "../routes/home";
 
 const App = () => (
-	<div id="app">
-		<Header />
-		<Router>
-			<Home path="/" />
-			<Profile path="/profile/" user="me" />
-			<Profile path="/profile/:user" />
-		</Router>
-	</div>
-)
+  <div id="app">
+    <Router>
+      <Home path="/" />
+    </Router>
+  </div>
+);
 
 export default App;

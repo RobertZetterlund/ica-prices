@@ -1,20 +1,291 @@
-html, body {
-	height: 100%;
-	width: 100%;
-	padding: 0;
-	margin: 0;
-	background: #FAFAFA;
-	font-family: 'Helvetica Neue', arial, sans-serif;
-	font-weight: 400;
-	color: #444;
-	-webkit-font-smoothing: antialiased;
-	-moz-osx-font-smoothing: grayscale;
+:root {
+  --text-color: #332f0b;
+  --dim-text-color: #313024;
+  --background-color: #fff5ca;
+  --button-bg: #ffff69;
+  --button-text: var(--text-color);
+  --input-bg: #ceceb7;
+  --input-color: #1b1b18;
+  --shade-color: #abab8c;
 }
 
-* {
-	box-sizing: border-box;
+@media (prefers-color-scheme: dark) {
+  :root {
+    --text-color: #ccc;
+    --dim-text-color: #111;
+    --background-color: #1a1a1a;
+    --button-bg: #ffff69;
+    --button-text: #332f0b;
+    --input-bg: #ccc;
+    --input-color: #1a1a1a;
+    --shade-color: #2c2b2b;
+  }
+}
+
+@font-face {
+  font-family: "IcaFont";
+  src: local("ICA Rubrik Bold"),
+    url("../assets/ica-font.ttf") format("truetype");
+}
+
+:root {
+  font-family: "IcaFont";
+  line-height: 1.5;
+  font-weight: 400;
+
+  color: var(--text-color);
+  background-color: var(--background-color);
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+  --ica-red: rgb(225, 50, 5);
+}
+
+body {
+  max-width: 1280px;
+  margin: 0;
+  display: flex;
+  align-items: center;
+  min-height: 100vh;
 }
 
 #app {
-	height: 100%;
+  margin: 0 auto;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  justify-content: space-between;
+  width: 100%;
+  align-items: center;
+}
+
+header h1 {
+  color: var(--ica-red);
+  margin: 0;
+}
+
+form {
+  width: 100%;
+  display: flex;
+  gap: 8px;
+  flex-direction: column;
+}
+.price-input {
+  position: relative;
+  display: flex;
+}
+.price-input input {
+  padding-right: 24px;
+  padding-left: 12px;
+  text-align: right;
+}
+.price-input .currency {
+  position: absolute;
+  right: 8px;
+  top: 1.2px;
+  color: var(--input-color);
+}
+
+input {
+  background: none;
+  color: inherit;
+  border: none;
+  font: inherit;
+  cursor: pointer;
+  outline: inherit;
+  color: var(--input-color);
+  background-color: var(--input-bg);
+  border-radius: 4px;
+  width: 100%;
+}
+
+input:disabled .currency,
+input:disabled {
+  opacity: 0.5;
+}
+
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type="number"] {
+  -moz-appearance: textfield;
+}
+
+main {
+  flex: 1;
+  max-width: clamp(300px, 400px, 90vw);
+  display: flex;
+  flex-direction: column;
+  padding: 24px 0px;
+}
+@media (max-width: 639px) {
+  main {
+    padding: 8px 0px;
+  }
+}
+
+.image-container {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  gap: 12px;
+  align-items: center;
+  padding: 12px;
+  border: 1px solid var(--dim-text-color);
+  background-color: var(--shade-color);
+  border-radius: 4px;
+  box-shadow: 1px 3px 5px var(--dim-text-color);
+}
+.image-container img {
+  border-radius: 4px;
+  object-fit: contain;
+  width: 100%;
+}
+.image-container span {
+  font-size: 24px;
+}
+
+.guesses {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin-bottom: 8px;
+}
+
+.content {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-self: center;
+}
+
+.guess-container {
+  display: flex;
+  flex-direction: row;
+  flex: 1;
+  gap: 8px;
+  min-height: 28px;
+  background: var(--shade-color);
+  border: 1px solid var(--dim-text-color);
+  border-radius: 4px;
+  padding: 0 8px;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.guess-result {
+  padding: 0 8px;
+  min-width: 24px;
+  border-radius: 4px;
+  font-weight: 700;
+  color: #1a1a1a;
+}
+.guess-result.red {
+  background-color: rgb(243, 41, 23);
+}
+.guess-result.green {
+  background-color: rgb(71, 243, 23);
+}
+.guess-result.orange {
+  background-color: rgb(243, 140, 23);
+}
+
+.button-span {
+  transition-duration: 0.3s;
+  cursor: pointer;
+  font-size: 18px;
+  color: var(--button-text);
+
+  transform: translateY(-4px);
+  flex: 1;
+  padding: 4px;
+  border-radius: 4px;
+  background-color: var(--button-bg);
+}
+.button-span:hover {
+  transform: translateY(-5px);
+}
+.button-span.press {
+  transition-duration: 0.1s;
+  transform: translateY(0px);
+  box-shadow: inset 0px 3px 3px 0px rgba(0, 0, 0, 0.5);
+}
+
+.stamp-button {
+  border: none;
+  display: flex;
+  border-radius: 4px;
+  padding: 0;
+  position: relative;
+
+  background: linear-gradient(
+    90deg,
+    rgb(65, 70, 20) 0%,
+    rgb(105, 110, 35) 14.06%,
+    rgb(105, 110, 35) 83.85%,
+    rgb(65, 70, 20) 100%
+  );
+}
+.stamp-button:disabled span {
+  transform: translateY(-1px);
+  opacity: 0.5;
+}
+
+.result-container {
+  padding: 8px 0;
+  min-height: 60px;
+}
+
+@media (max-width: 639px) {
+  .result-container {
+    min-height: unset;
+  }
+}
+
+.result-container h2 {
+  text-decoration: underline;
+  margin: 0;
+}
+
+footer {
+  text-align: right;
+}
+
+mark {
+  margin: 0 -0.3em;
+  padding: 0.1em 0.3em;
+  border-radius: 0.8em 0.3em;
+  background: transparent;
+  background-image: linear-gradient(
+    to right,
+    rgba(219, 41, 41, 0.1),
+    rgba(224, 40, 40, 0.7) 4%,
+    rgba(194, 29, 29, 0.3)
+  );
+  -webkit-box-decoration-break: clone;
+  box-decoration-break: clone;
+}
+@media (prefers-color-scheme: dark) {
+  mark {
+    background-image: linear-gradient(
+      to right,
+      rgba(123, 66, 66, 0.1),
+      rgba(123, 66, 66, 0.7) 4%,
+      rgba(123, 66, 66, 0.3)
+    );
+  }
+}
+
+a:visited {
+  color: initial;
 }
