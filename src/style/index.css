@@ -45,7 +45,6 @@
 }
 
 body {
-  max-width: 1280px;
   margin: 0;
   display: flex;
   align-items: center;
@@ -86,7 +85,9 @@ form {
 .price-input .currency {
   position: absolute;
   right: 8px;
-  top: 1.2px;
+  line-height: 0px;
+  transform: translateY(50%);
+  height: 100%;
   color: var(--input-color);
 }
 
@@ -148,7 +149,8 @@ main {
 .image-container img {
   border-radius: 4px;
   object-fit: contain;
-  width: 100%;
+  width: 300px;
+  height: 300px;
 }
 .image-container span {
   font-size: 24px;
@@ -258,6 +260,7 @@ main {
 }
 
 footer {
+  margin-top: 18px;
   text-align: right;
 }
 
@@ -286,6 +289,7 @@ mark {
   }
 }
 
+a,
 a:visited {
-  color: initial;
+  color: var(--text-color);
 }

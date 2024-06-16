@@ -1,30 +1,8 @@
-# Preact
 
-This directory is a brief example of a [Preact](https://preactjs.com/) app that can be deployed to Vercel with zero configuration.
+<p align="center">
+  <img width="535" alt="Screenshot 2024-06-17 at 01 30 50" src="https://github.com/RobertZetterlund/ica-prices/assets/31474146/c129fc72-cf9d-4db5-9953-9a2ae2327857">
+</p>
 
-## Deploy Your Own
+A wordle-esque game about guessing the price of groceries from ICA. Build with Preact and deployed with vercel.
 
-Deploy your own Preact project with Vercel.
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/vercel/tree/main/examples/preact&template=preact)
-
-_Live Example: https://preact-template.vercel.app_
-
-## Running Locally
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# test the production build locally
-npm run serve
-
-# run tests with jest and enzyme
-npm run test
-```
+A quick copy of https://costcodle.com/. Scraped some data and threw it together for fun

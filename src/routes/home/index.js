@@ -1,23 +1,21 @@
 import { h } from "preact";
 import { useCallback, useEffect, useMemo, useState } from "preact/hooks";
 
-const games = {
-  "game-1": {
-    productId: "7ccbff18-afb6-4215-b8e3-77aeebcb61b7",
-    name: "Feta 150g ICA",
-    price: "25.95",
-    image:
-      "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/50569f8a-0d13-4396-b864-99eef2d0d8fd/300x300.jpg",
-  },
-};
+import games from "../../assets/games.json";
 
 const GUESSES = [0, 1, 2, 3, 4];
 
 function Home() {
   const dayId = useMemo(() => {
-    const startDate = new Date("2024-06-16").toString();
+    const startDate = new Date("2024-06-17").toString();
     const today = new Date().toString();
-    return Math.ceil((Date.parse(today) - Date.parse(startDate)) / 86400000);
+    return Math.max(
+      1,
+      Math.min(
+        327,
+        Math.ceil((Date.parse(today) - Date.parse(startDate)) / 86400000) % 327
+      )
+    );
   }, []);
 
   const gameId = `game-${dayId}`;
@@ -84,17 +82,13 @@ function Home() {
     <>
       <header>
         <h1>
-          <svg
-            viewBox="0 7.77 32 16.449"
-            width="48px"
-            style={{ marginRight: "2px" }}
-          >
+          <svg viewBox="0 7.77 32 16.449" width="48px">
             <path
               fill="#e13205"
               d="M0 8.208h3.986v15.726H0V8.208m23.042-.438L32 23.934h-4.534l-.986-1.752h-4.512l1.577-2.848h1.358l-1.862-3.373-1.949 3.504a13.904 13.904 0 01-.92 1.446 8.172 8.172 0 01-6.571 3.308c-4.49 0-8.148-3.658-8.148-8.148s3.658-8.148 8.148-8.148c1.533 0 2.913.416 4.118 1.117l-1.927 3.482a4.265 4.265 0 00-2.19-.613c-2.3 0-4.161 1.862-4.161 4.162s1.862 4.162 4.161 4.162c1.249 0 2.278-.526 3.023-1.292.328-.329.701-.876.81-1.073l5.607-10.097"
             ></path>
           </svg>
-          Focus-priset?
+          -priset?
         </h1>
       </header>
       <main>
@@ -136,6 +130,7 @@ function Home() {
                 step="any"
                 autoFocus
                 placeholder="0.00"
+                inputmode="decimal"
               />
               <span className="currency">kr</span>
             </div>
