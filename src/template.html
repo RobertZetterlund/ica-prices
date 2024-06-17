@@ -6,8 +6,12 @@
 		<meta name="mobile-web-app-capable" content="yes">
 		<meta name="apple-mobile-web-app-capable" content="yes">
 		<meta name="theme-color" content="#e13205">
+		<!-- Preload the font, files in static/ is equal to public/ -->
+		<link rel="preload" href="/ica-font.woff"  as="font" type="font/woff">
+		<!-- Preload the css requesting the font, if in src/*.css it'll get bundled and hashed -->
+		<link rel="stylesheet" href= "/font.css">
 
-			<!-- HTML Meta Tags -->
+		<!-- HTML Meta Tags -->
 		<title>ICA-priset</title>
 		<meta name="description" content="Ett spel där du gissar priset på varor från ICA Focus.">
 			
@@ -16,15 +20,16 @@
 		<meta property="og:type" content="website">
 		<meta property="og:title" content="ICA-priset">
 		<meta property="og:description" content="Ett spel där du gissar priset på varor från ICA Focus.">
-		<meta property="og:image" content="https://github.com/RobertZetterlund/ica-prices/blob/main/src/assets/ica-priset.jpg?raw=true">
-			
+		<meta property="og:image" content="https://ica-prices.vercel.app/ica-priset.jpg">
+		
 		<!-- Twitter Meta Tags -->
 		<meta name="twitter:card" content="summary_large_image">
 		<meta property="twitter:domain" content="ica-prices.vercel.app">
 		<meta property="twitter:url" content="https://ica-prices.vercel.app/">
 		<meta name="twitter:title" content="ICA-priset">
 		<meta name="twitter:description" content="Ett spel där du gissar priset på varor från ICA Focus.">
-		<meta name="twitter:image" content="https://github.com/RobertZetterlund/ica-prices/blob/main/src/assets/ica-priset.jpg?raw=true">
+		<meta name="twitter:image" content="https://ica-prices.vercel.app/ica-priset.jpg">
+
 		<% preact.headEnd %>
 	</head>
 	<body>

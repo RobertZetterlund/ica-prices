@@ -7,6 +7,7 @@
   --input-bg: #ceceb7;
   --input-color: #1b1b18;
   --shade-color: #abab8c;
+  --ica-red: rgb(225, 50, 5);
 }
 
 @media (prefers-color-scheme: dark) {
@@ -22,12 +23,6 @@
   }
 }
 
-@font-face {
-  font-family: "IcaFont";
-  src: local("ICA Rubrik Bold"),
-    url("../assets/ica-font.ttf") format("truetype");
-}
-
 :root {
   font-family: "IcaFont";
   line-height: 1.5;
@@ -41,7 +36,6 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   -webkit-text-size-adjust: 100%;
-  --ica-red: rgb(225, 50, 5);
 }
 
 body {
@@ -245,7 +239,12 @@ main {
 
 .result-container {
   padding: 8px 0;
-  min-height: 60px;
+  min-height: 84px;
+  gap: 2px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
 }
 
 @media (max-width: 639px) {
@@ -262,6 +261,7 @@ main {
 footer {
   margin-top: 18px;
   text-align: right;
+  padding: 4px;
 }
 
 mark {
@@ -292,4 +292,45 @@ mark {
 a,
 a:visited {
   color: var(--text-color);
+}
+
+.share-toast {
+  position: fixed;
+  top: 90px;
+  opacity: 0;
+  transition: opacity 400ms ease-in-out;
+  background-color: red;
+  align-self: center;
+  padding: 6px 24px;
+  border-radius: 4px;
+  color: #fff;
+}
+.share-toast.show {
+  opacity: 1;
+}
+button {
+  cursor: pointer;
+  font-family: inherit;
+}
+
+button.copy-result {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  align-items: center;
+  width: fit-content;
+  outline: none;
+  border: none;
+  background-color: red;
+  color: white;
+  border-radius: 4px;
+  padding: 2px 8px;
+  gap: 2px;
+}
+button.copy-result svg {
+  margin-right: -6px;
+}
+
+button.copy-result:hover {
+  opacity: 0.9;
 }
