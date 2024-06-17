@@ -28,7 +28,8 @@ function createSharableLink(guesses, day) {
   return `ICA-priset #${day} ${guesses.length}/5 ${guesses
     .map((guess) => {
       return `${
-        PROXIMITY_EMOJI[guess.proximity] + GUESS_COLOR_EMOJI[guess.color]
+        PROXIMITY_EMOJI[guess.proximity] +
+        (guess.offBy === 0 ? "⭐" : GUESS_COLOR_EMOJI[guess.color])
       }`;
     })
     .join(" ")} ${window.location.href}`;
