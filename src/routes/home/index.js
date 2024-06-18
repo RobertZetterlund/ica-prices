@@ -25,14 +25,14 @@ const PROXIMITY_EMOJI = {
 
 // Ica-Priset #1 3/5 ⬇️🟥 ⬇️🟥 ✅ https://ica-prices.vercel.app/
 function createSharableLink(guesses, day) {
-  return `ICA-priset #${day} ${guesses.length}/5 ${guesses
+  return `ICA-priset #${day} ${guesses.length}/5 \n${guesses
     .map((guess) => {
       return `${
         PROXIMITY_EMOJI[guess.proximity] +
         (guess.offBy === 0 ? "⭐" : GUESS_COLOR_EMOJI[guess.color])
       }`;
     })
-    .join(" ")} ${window.location.href}`;
+    .join("\n")}`;
 }
 
 function Home() {
@@ -56,13 +56,25 @@ function Home() {
   const toastTimeoutRef = useRef();
 
   const handleClickShare = useCallback(() => {
-    const link = createSharableLink(guesses, dayId);
-    navigator.clipboard?.writeText(link);
-    setShowToast(true);
-    clearTimeout(toastTimeoutRef.current);
-    toastTimeoutRef.current = setTimeout(() => {
-      setShowToast(false);
-    }, 2000);
+    const text = createSharableLink(guesses, dayId);
+    if (isMobile && navigator.canShare) {
+      navigator
+        .share({
+          title: "ICA-priset",
+          text: text,
+          url: window.location.href,
+        })
+        .then((err) => {
+          console.error("Unable to share: ", err);
+        });
+    } else {
+      navigator.clipboard?.writeText(`${text}\n${window.location.href}`);
+      setShowToast(true);
+      clearTimeout(toastTimeoutRef.current);
+      toastTimeoutRef.current = setTimeout(() => {
+        setShowToast(false);
+      }, 2000);
+    }
   }, [guesses, dayId]);
 
   useEffect(() => {
@@ -85,7 +97,8 @@ function Home() {
       const offByPercentage =
         Math.abs((actualNum - guessNum) / actualNum) * 100;
 
-      const isCorrect = offByPercentage <= 0.5;
+      // Correct is regarded to be within 2 percent.
+      const isCorrect = offByPercentage <= 2;
 
       const proximity = isCorrect
         ? "correct"
@@ -93,6 +106,7 @@ function Home() {
         ? "above"
         : "below";
 
+      // orange, i.e. close is 15 percent.
       const color = isCorrect
         ? "green"
         : offByPercentage < 15
