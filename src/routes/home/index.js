@@ -1,4 +1,3 @@
-import { h } from "preact";
 import {
   useCallback,
   useEffect,
@@ -8,7 +7,7 @@ import {
 } from "preact/hooks";
 
 import games from "../../assets/games.json";
-
+const GAMES_AMT = Object.keys(games).length;
 const GUESSES = [0, 1, 2, 3, 4];
 
 const GUESS_COLOR_EMOJI = {
@@ -23,7 +22,12 @@ const PROXIMITY_EMOJI = {
   below: "⬆️",
 };
 
-// Ica-Priset #1 3/5 ⬇️🟥 ⬇️🟥 ✅ https://ica-prices.vercel.app/
+/** Ica-Priset #1 3/5
+ * ⬇️🟥
+ * ⬇️🟥
+ * ✅
+ * https://ica-prices.vercel.app/
+ */
 function createSharableLink(guesses, day) {
   return `ICA-priset #${day} ${guesses.length}/5 \n${guesses
     .map((guess) => {
@@ -37,13 +41,15 @@ function createSharableLink(guesses, day) {
 
 function Home() {
   const dayId = useMemo(() => {
+    // All the prices were grabbed on this date :shrug:
     const startDate = new Date("2024-06-17").toString();
     const today = new Date().toString();
     return Math.max(
       1,
       Math.min(
-        327,
-        Math.ceil((Date.parse(today) - Date.parse(startDate)) / 86400000) % 327
+        GAMES_AMT,
+        Math.ceil((Date.parse(today) - Date.parse(startDate)) / 86400000) %
+          GAMES_AMT
       )
     );
   }, []);
@@ -246,7 +252,16 @@ function GuessContainer({ guess }) {
   return (
     <div className="guess-container">
       <div>{guess.value} kr</div>
-      <div className={`guess-result ` + guess.color}>
+      <div
+        className={`guess-result ` + guess.color}
+        title={
+          guess.proximity === "above"
+            ? "Rätt pris är mindre"
+            : guess.proximity === "below"
+            ? "Rätt pris är mer"
+            : ""
+        }
+      >
         {proximityToSymbol[guess.proximity]}
       </div>
     </div>
