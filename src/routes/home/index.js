@@ -145,12 +145,40 @@ function Home() {
   const loss = game_fin && !correctGuess;
   const win = game_fin && !loss;
 
+  const dialogRef = useRef(null);
+
+  useEffect(() => {
+    const handler = (e) => {
+      if (e.target.nodeName === "BODY") {
+        dialogRef.current.close();
+      }
+    };
+
+    addEventListener("click", handler);
+    return () => removeEventListener("click", handler);
+  }, []);
+
   return (
     <>
       <div className={`share-toast ${showToast ? "show" : ""}`}>
         ✓ Kopierat till Urklipp!
       </div>
       <header>
+        <button
+          onClick={() =>
+            dialogRef.current.open
+              ? dialogRef.current.close()
+              : dialogRef.current.show()
+          }
+        >
+          <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32">
+            <path
+              fill-rule="evenodd"
+              fill="#e13205"
+              d="M16 25a9.01 9.01 0 0 1 0-18 9.01 9.01 0 0 1 0 18m0-20C9.94 5 5 9.94 5 16s4.93 11 11 11 11-4.93 11-11S22.07 5 16 5m-.4 13.79c.65 0 1.16.53 1.16 1.14 0 .62-.5 1.15-1.17 1.15a1.16 1.16 0 0 1-1.16-1.15c0-.61.5-1.14 1.16-1.14m-.9-1.04c0-.95.36-1.43 1.04-2.17.7-.73.94-1.05.94-1.61 0-.5-.33-.91-1.06-.91-.55 0-1.02.3-1.29.56-.07.07-.14.05-.18-.03l-.7-1.57c-.03-.08-.02-.14.04-.2a3.3 3.3 0 0 1 2.2-.76c2.18 0 3.04 1.48 3.04 2.76 0 1.09-.5 1.73-1.32 2.63-.63.7-.88 1.03-.88 1.5v.04c0 .08-.04.14-.14.14h-1.56c-.1 0-.14-.06-.14-.14z"
+            />
+          </svg>
+        </button>
         <h1>
           <svg viewBox="0 7.77 32 16.449" width="48px">
             <path
@@ -162,6 +190,60 @@ function Home() {
         </h1>
       </header>
       <main>
+        <dialog ref={dialogRef}>
+          <p>
+            Spelet går ut på att gissa priset på varor från ICA Focus på fem
+            försök.
+          </p>
+          <p>
+            Rätt svar erhålles när antalet försök tar slut eller om du gissat
+            rätt med en felmarginal på 2%.
+          </p>
+
+          <div className="guess-examples">
+            <h3>Exempel</h3>
+            <div>
+              <GuessContainer
+                guess={{
+                  offBy: 20,
+                  round: 1,
+                  value: 30,
+                  color: "red",
+                  proximity: "below",
+                }}
+              />
+              <span>För billigt gissat: mer än 15% ifrån</span>
+            </div>
+            <div>
+              <GuessContainer
+                guess={{
+                  offBy: 5,
+                  round: 1,
+                  value: 55,
+                  color: "orange",
+                  proximity: "above",
+                }}
+              />
+              <span>För dyrt gissat: mindre än 15% ifrån</span>
+            </div>
+            <div>
+              <GuessContainer
+                guess={{
+                  offBy: 0,
+                  round: 1,
+                  value: 50,
+                  color: "green",
+                  proximity: "correct",
+                }}
+              />
+              <span>Gissningen var korrekt!</span>
+            </div>
+            <StampButton
+              text={"Tillbaka"}
+              onClick={() => dialogRef.current.close()}
+            />
+          </div>
+        </dialog>
         <div className="image-container">
           <img src={game.image} alt={game.name} />
           <span>{game.name}</span>
@@ -256,9 +338,9 @@ function GuessContainer({ guess }) {
         className={`guess-result ` + guess.color}
         title={
           guess.proximity === "above"
-            ? "Rätt pris är mindre"
+            ? "Rätt pris är lägre"
             : guess.proximity === "below"
-            ? "Rätt pris är mer"
+            ? "Rätt pris är högre"
             : ""
         }
       >
@@ -268,12 +350,13 @@ function GuessContainer({ guess }) {
   );
 }
 
-function StampButton({ disabled, text }) {
+function StampButton({ disabled, text, onClick }) {
   const [pressed, setPressed] = useState(false);
 
   const handleOnClick = useCallback(() => {
     setPressed(true);
     setTimeout(() => {
+      onClick?.();
       setPressed(false);
     }, 200);
   }, []);
