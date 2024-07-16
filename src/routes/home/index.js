@@ -146,6 +146,7 @@ function Home() {
   const win = game_fin && !loss;
 
   const dialogRef = useRef(null);
+  const inputRef = useRef(null);
 
   useEffect(() => {
     const handler = (e) => {
@@ -277,7 +278,11 @@ function Home() {
         <div className="content">
           <div className="guesses">
             {GUESSES.map((i) => (
-              <GuessContainer key={i} guess={guesses[i]} />
+              <GuessContainer
+                key={i}
+                guess={guesses[i]}
+                onClick={() => inputRef.current?.focus()}
+              />
             ))}
           </div>
           <form
@@ -288,6 +293,7 @@ function Home() {
           >
             <div className="price-input">
               <input
+                ref={inputRef}
                 type={isMobile ? undefined : "number"}
                 disabled={game_fin}
                 value={input}
@@ -326,9 +332,9 @@ const proximityToSymbol = {
   correct: "✓",
 };
 
-function GuessContainer({ guess }) {
+function GuessContainer({ guess, onClick }) {
   if (!guess) {
-    return <div className="guess-container" />;
+    return <div className="guess-container" onClick={onClick} />;
   }
 
   return (
