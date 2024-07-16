@@ -1,6 +1,6 @@
 {
-  "name": "ICA-priset?",
-  "short_name": "ICA-priset?",
+  "name": "ICA-priset",
+  "short_name": "ICA-priset",
   "start_url": "/",
   "display": "standalone",
   "orientation": "portrait"
